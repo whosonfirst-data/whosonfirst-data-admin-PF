@@ -1,0 +1,66 @@
+{
+  "id": 1226261365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-137.06517,-18.26681,-137.06517,-18.26681",
+    "geom:latitude":-18.26681,
+    "geom:longitude":-137.06517,
+    "gn:asciiname":"Marautagaroa",
+    "gn:country_code":"PF",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8531752,
+    "gn:latitude":-18.26681,
+    "gn:longitude":-137.06517,
+    "gn:modification_date":"2013-05-12",
+    "gn:name":"Marautagaroa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8531752
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"f9db8aed241ece9604695244a98c5763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":1226261365,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226261365,
+    "wof:lastmodified":1536911471,
+    "wof:name":"Marautagaroa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -137.06517,
+    -18.26681,
+    -137.06517,
+    -18.26681
+],
+  "geometry": {"coordinates":[-137.06516999999999,-18.26681],"type":"Point"}
+}

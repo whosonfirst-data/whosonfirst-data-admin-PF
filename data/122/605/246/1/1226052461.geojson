@@ -1,0 +1,68 @@
+{
+  "id": 1226052461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-151.47229,-16.85727,-151.47229,-16.85727",
+    "geom:latitude":-16.85727,
+    "geom:longitude":-151.47229,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Vaiaau",
+    "gn:country_code":"PF",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8554431,
+    "gn:latitude":-16.85727,
+    "gn:longitude":-151.47229,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Va\u00efaau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653,
+        85676731,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8554431
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"8b3ec3d302f17e1e047caa1c24699c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":1226052461,
+            "region_id":85676731
+        }
+    ],
+    "wof:id":1226052461,
+    "wof:lastmodified":1536715715,
+    "wof:name":"Vaiaau",
+    "wof:parent_id":85676731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -151.47229,
+    -16.85727,
+    -151.47229,
+    -16.85727
+],
+  "geometry": {"coordinates":[-151.47228999999999,-16.85727],"type":"Point"}
+}

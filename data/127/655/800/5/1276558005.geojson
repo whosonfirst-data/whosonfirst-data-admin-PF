@@ -1,0 +1,72 @@
+{
+  "id": 1276558005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-151.73333,-16.51667,-151.73333,-16.51667",
+    "geom:latitude":-16.51667,
+    "geom:longitude":-151.73333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Povai",
+    "gn:cc2":"PF",
+    "gn:country_code":"PF",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4033804,
+    "gn:latitude":-16.51667,
+    "gn:longitude":-151.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Povai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Turapao",
+        "Povai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4033804
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"1e458d777a8a00889ef075421b05fc33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":1276558005,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276558005,
+    "wof:lastmodified":1537677014,
+    "wof:name":"Povai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -151.73333,
+    -16.51667,
+    -151.73333,
+    -16.51667
+],
+  "geometry": {"coordinates":[-151.73333,-16.51667],"type":"Point"}
+}

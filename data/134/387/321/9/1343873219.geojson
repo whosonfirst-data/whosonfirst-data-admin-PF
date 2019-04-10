@@ -1,0 +1,61 @@
+{
+  "id": 1343873219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.35,-17.53333,-149.35,-17.53333",
+    "geom:latitude":-17.53333,
+    "geom:longitude":-149.35,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Faauanu",
+    "gn:country_code":"PF",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4034522,
+    "gn:latitude":-17.53333,
+    "gn:longitude":-149.35,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Faauanu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034522
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"0b9e385f3b14558e78ab4d3c67275a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343873219,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343873219,
+    "wof:lastmodified":1536647733,
+    "wof:name":"Faauanu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.35,
+    -17.53333,
+    -149.35,
+    -17.53333
+],
+  "geometry": {"coordinates":[-149.34999999999999,-17.53333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209626805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-138.77398,-19.27825,-138.77398,-19.27825",
+    "geom:latitude":-19.27825,
+    "geom:longitude":-138.77398,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tavava",
+    "gn:country_code":"PF",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8531746,
+    "gn:latitude":-19.27825,
+    "gn:longitude":-138.77398,
+    "gn:modification_date":"2013-05-12",
+    "gn:name":"Tavava",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8531746
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"6e82545901b49e6366f5b8cf1bd94bc0",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632653,
+            "locality_id":1209626805
+        }
+    ],
+    "wof:id":1209626805,
+    "wof:lastmodified":1536281329,
+    "wof:name":"Tavava",
+    "wof:parent_id":85632653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -138.77398,
+    -19.27825,
+    -138.77398,
+    -19.27825
+],
+  "geometry": {"coordinates":[-138.77397999999999,-19.27825],"type":"Point"}
+}

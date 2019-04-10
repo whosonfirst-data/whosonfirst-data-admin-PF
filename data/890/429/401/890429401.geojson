@@ -1,0 +1,66 @@
+{
+  "id": 890429401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-152.80474,-22.66085,-152.80474,-22.66085",
+    "geom:latitude":-22.66085,
+    "geom:longitude":-152.80474,
+    "gn:country":"PF",
+    "gn:fcode":"PPL",
+    "gn:pop":291,
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Motu Ura",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632653,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034164,
+        "gp:id":28752896,
+        "qs:id":97097
+    },
+    "wof:country":"PF",
+    "wof:created":1469051813,
+    "wof:geomhash":"38e1c8af989c3e5a3d440cbb5d23149d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":890429401,
+            "region_id":-1
+        }
+    ],
+    "wof:id":890429401,
+    "wof:lastmodified":1509998519,
+    "wof:name":"Motu Ura",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":291,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -152.80474,
+    -22.66085,
+    -152.80474,
+    -22.66085
+],
+  "geometry": {"coordinates":[-152.80474000000001,-22.66085],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1193146895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-140.04384,-8.87841,-140.04384,-8.87841",
+    "geom:latitude":-8.87841,
+    "geom:longitude":-140.04384,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hanga Haa",
+    "gn:country_code":"PF",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4031038,
+    "gn:latitude":-8.87841,
+    "gn:longitude":-140.04384,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Hanga Haa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Marquesas",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653,
+        85676745,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4031038
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"525ce67038c9c47bdea14bcf8033eb67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":1193146895,
+            "region_id":85676745
+        }
+    ],
+    "wof:id":1193146895,
+    "wof:lastmodified":1536382417,
+    "wof:name":"Hanga Haa",
+    "wof:parent_id":85676745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -140.04384,
+    -8.87841,
+    -140.04384,
+    -8.87841
+],
+  "geometry": {"coordinates":[-140.04383999999999,-8.87841],"type":"Point"}
+}

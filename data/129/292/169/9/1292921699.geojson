@@ -1,0 +1,61 @@
+{
+  "id": 1292921699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-135.02931,-23.1444,-135.02931,-23.1444",
+    "geom:latitude":-23.1444,
+    "geom:longitude":-135.02931,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Taravai",
+    "gn:country_code":"PF",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4030829,
+    "gn:latitude":-23.1444,
+    "gn:longitude":-135.02931,
+    "gn:modification_date":"2017-01-09",
+    "gn:name":"Taravai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Gambier",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4030829
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"6c006cd756d00d45958edd2bad385436",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1292921699,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1292921699,
+    "wof:lastmodified":1536605627,
+    "wof:name":"Taravai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -135.02931,
+    -23.1444,
+    -135.02931,
+    -23.1444
+],
+  "geometry": {"coordinates":[-135.02931000000001,-23.1444],"type":"Point"}
+}

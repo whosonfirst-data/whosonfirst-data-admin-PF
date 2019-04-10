@@ -1,0 +1,68 @@
+{
+  "id": 1276883335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-139.10756,-9.91601,-139.10756,-9.91601",
+    "geom:latitude":-9.91601,
+    "geom:longitude":-139.10756,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ivaiva Nui",
+    "gn:country_code":"PF",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4019987,
+    "gn:latitude":-9.91601,
+    "gn:longitude":-139.10756,
+    "gn:modification_date":"2016-07-25",
+    "gn:name":"Ivaiva Nui",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Marquesas",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653,
+        85676745,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4019987
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"116b55513b55e78abcbbcd952a88fe3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":1276883335,
+            "region_id":85676745
+        }
+    ],
+    "wof:id":1276883335,
+    "wof:lastmodified":1537034873,
+    "wof:name":"Ivaiva Nui",
+    "wof:parent_id":85676745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -139.10756,
+    -9.91601,
+    -139.10756,
+    -9.91601
+],
+  "geometry": {"coordinates":[-139.10756000000001,-9.91601],"type":"Point"}
+}

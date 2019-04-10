@@ -1,0 +1,65 @@
+{
+  "id": 1243373465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-148.26667,-15.81667,-148.26667,-15.81667",
+    "geom:latitude":-15.81667,
+    "geom:longitude":-148.26667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Temao",
+    "gn:country_code":"PF",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4033472,
+    "gn:latitude":-15.81667,
+    "gn:longitude":-148.26667,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Temao",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136253037,
+        85676737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4033472
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"42e511ad65cc78955489a47b061ef3a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "empire_id":136253037,
+            "locality_id":1243373465,
+            "region_id":85676737
+        }
+    ],
+    "wof:id":1243373465,
+    "wof:lastmodified":1536911097,
+    "wof:name":"Temao",
+    "wof:parent_id":85676737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -148.26667,
+    -15.81667,
+    -148.26667,
+    -15.81667
+],
+  "geometry": {"coordinates":[-148.26667,-15.81667],"type":"Point"}
+}

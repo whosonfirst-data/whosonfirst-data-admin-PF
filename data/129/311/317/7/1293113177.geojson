@@ -1,0 +1,73 @@
+{
+  "id": 1293113177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.33333,-17.75,-149.33333,-17.75",
+    "geom:latitude":-17.75,
+    "geom:longitude":-149.33333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Paui",
+    "gn:cc2":"PF",
+    "gn:country_code":"PF",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4033867,
+    "gn:latitude":-17.75,
+    "gn:longitude":-149.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Paui",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pani",
+        "Paui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653,
+        85676727,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4033867
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"b6bd1daa8f165c8f4520b2d4314e6a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":1293113177,
+            "region_id":85676727
+        }
+    ],
+    "wof:id":1293113177,
+    "wof:lastmodified":1537677014,
+    "wof:name":"Paui",
+    "wof:parent_id":85676727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.33333000000005,
+    -17.75,
+    -149.33333000000005,
+    -17.75
+],
+  "geometry": {"coordinates":[-149.33333000000005,-17.75],"type":"Point"}
+}

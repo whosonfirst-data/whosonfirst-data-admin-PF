@@ -1,0 +1,65 @@
+{
+  "id": 890437243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.31667,-17.75,-149.31667,-17.75",
+    "geom:latitude":-17.75,
+    "geom:longitude":-149.31667,
+    "gn:country":"PF",
+    "gn:fcode":"PPL",
+    "gn:pop":2842,
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Toahotu"
+    ],
+    "qs:name":"Tohautu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85676727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4033295,
+        "gp:id":28752837,
+        "qs:id":1047693
+    },
+    "wof:country":"PF",
+    "wof:created":1469052143,
+    "wof:geomhash":"4a627f5decb256aec74b63234358458f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":890437243,
+            "region_id":85676727
+        }
+    ],
+    "wof:id":890437243,
+    "wof:lastmodified":1506729058,
+    "wof:name":"Tohautu",
+    "wof:parent_id":85676727,
+    "wof:placetype":"locality",
+    "wof:population":2842,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.31667,
+    -17.75,
+    -149.31667,
+    -17.75
+],
+  "geometry": {"coordinates":[-149.31666999999999,-17.75],"type":"Point"}
+}

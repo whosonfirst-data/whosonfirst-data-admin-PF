@@ -1,0 +1,61 @@
+{
+  "id": 1209530191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-134.96667,-23.09028,-134.96667,-23.09028",
+    "geom:latitude":-23.09028,
+    "geom:longitude":-134.96667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Atihoi",
+    "gn:country_code":"PF",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4030862,
+    "gn:latitude":-23.09028,
+    "gn:longitude":-134.96667,
+    "gn:modification_date":"1998-01-20",
+    "gn:name":"Atihoi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Gambier",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4030862
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"520184d6e15153628737d0443867b40b",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632653,
+            "locality_id":1209530191
+        }
+    ],
+    "wof:id":1209530191,
+    "wof:lastmodified":1536284305,
+    "wof:name":"Atihoi",
+    "wof:parent_id":85632653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -134.96667,
+    -23.09028,
+    -134.96667,
+    -23.09028
+],
+  "geometry": {"coordinates":[-134.96666999999999,-23.09028],"type":"Point"}
+}

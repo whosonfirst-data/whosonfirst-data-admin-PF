@@ -1,0 +1,64 @@
+{
+  "id": 890434923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.45,-23.4,-149.45,-23.4",
+    "geom:latitude":-23.4,
+    "geom:longitude":-149.45,
+    "gn:country":"PF",
+    "gn:fcode":"PPL",
+    "gn:pop":462,
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Mahua"
+    ],
+    "qs:name":"Mahu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":52,
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034303,
+        "qs:id":586007,
+        "wk:page":"Mahu"
+    },
+    "wof:country":"PF",
+    "wof:created":1469052045,
+    "wof:geomhash":"c3203edb5f579f0a82da051b79fbbcd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":890434923,
+            "region_id":-1
+        }
+    ],
+    "wof:id":890434923,
+    "wof:lastmodified":1527792945,
+    "wof:name":"Mahu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":462,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.45,
+    -23.4,
+    -149.45,
+    -23.4
+],
+  "geometry": {"coordinates":[-149.44999999999999,-23.4],"type":"Point"}
+}

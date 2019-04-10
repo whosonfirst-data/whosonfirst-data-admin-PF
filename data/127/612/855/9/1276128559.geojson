@@ -1,0 +1,67 @@
+{
+  "id": 1276128559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.41667,-17.76667,-149.41667,-17.76667",
+    "geom:latitude":-17.76667,
+    "geom:longitude":-149.41667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Vaitunanaa",
+    "gn:country_code":"PF",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4033049,
+    "gn:latitude":-17.76667,
+    "gn:longitude":-149.41667,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Vaitunanaa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4033049
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"ebdf7acc0a712bd9c39a1ab022260f51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":1276128559,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276128559,
+    "wof:lastmodified":1537050781,
+    "wof:name":"Vaitunanaa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.41666999999995,
+    -17.76667,
+    -149.41666999999995,
+    -17.76667
+],
+  "geometry": {"coordinates":[-149.41666999999995,-17.76667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1344171967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.58765,-17.01491,-149.58765,-17.01491",
+    "geom:latitude":-17.01491,
+    "geom:longitude":-149.58765,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Titiaroa",
+    "gn:country_code":"PF",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8554436,
+    "gn:latitude":-17.01491,
+    "gn:longitude":-149.58765,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Titiaroa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8554436
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"a5b111fcc380a7e674334e194be98aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344171967,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344171967,
+    "wof:lastmodified":1536714930,
+    "wof:name":"Titiaroa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.58765,
+    -17.01491,
+    -149.58765,
+    -17.01491
+],
+  "geometry": {"coordinates":[-149.58765,-17.01491],"type":"Point"}
+}

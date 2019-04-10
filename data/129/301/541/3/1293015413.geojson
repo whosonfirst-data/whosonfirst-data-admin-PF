@@ -1,0 +1,68 @@
+{
+  "id": 1293015413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.58333,-17.71667,-149.58333,-17.71667",
+    "geom:latitude":-17.71667,
+    "geom:longitude":-149.58333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Taverea",
+    "gn:country_code":"PF",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4033548,
+    "gn:latitude":-17.71667,
+    "gn:longitude":-149.58333,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Taverea",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653,
+        85676727,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4033548
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"f4c896cc0b120aa75043dfeda5133592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":1293015413,
+            "region_id":85676727
+        }
+    ],
+    "wof:id":1293015413,
+    "wof:lastmodified":1536970191,
+    "wof:name":"Taverea",
+    "wof:parent_id":85676727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.58333000000005,
+    -17.71667,
+    -149.58333000000005,
+    -17.71667
+],
+  "geometry": {"coordinates":[-149.58333000000005,-17.71667],"type":"Point"}
+}

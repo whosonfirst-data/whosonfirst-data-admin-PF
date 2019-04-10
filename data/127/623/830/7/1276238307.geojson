@@ -1,0 +1,61 @@
+{
+  "id": 1276238307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-138.55,-20.78333,-138.55,-20.78333",
+    "geom:latitude":-20.78333,
+    "geom:longitude":-138.55,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fakamaru",
+    "gn:country_code":"PF",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4030659,
+    "gn:latitude":-20.78333,
+    "gn:longitude":-138.55,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Fakamaru",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4030659
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"44170e5e6d742eae0410d0fcc7d794d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276238307,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276238307,
+    "wof:lastmodified":1536906145,
+    "wof:name":"Fakamaru",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -138.55,
+    -20.78333,
+    -138.55,
+    -20.78333
+],
+  "geometry": {"coordinates":[-138.55000000000001,-20.78333],"type":"Point"}
+}

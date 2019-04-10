@@ -1,0 +1,68 @@
+{
+  "id": 1293113499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.51667,-17.51667,-149.51667,-17.51667",
+    "geom:latitude":-17.51667,
+    "geom:longitude":-149.51667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pipine",
+    "gn:country_code":"PF",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4033839,
+    "gn:latitude":-17.51667,
+    "gn:longitude":-149.51667,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Pipine",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653,
+        85676727,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4033839
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"cdf7de324106d9c74c20d90f86e29e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":1293113499,
+            "region_id":85676727
+        }
+    ],
+    "wof:id":1293113499,
+    "wof:lastmodified":1536828240,
+    "wof:name":"Pipine",
+    "wof:parent_id":85676727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.51667,
+    -17.51667,
+    -149.51667,
+    -17.51667
+],
+  "geometry": {"coordinates":[-149.51667,-17.51667],"type":"Point"}
+}

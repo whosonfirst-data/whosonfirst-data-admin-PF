@@ -1,0 +1,126 @@
+{
+  "id": 421193185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.26667,-17.83333,-149.26667,-17.83333",
+    "geom:latitude":-17.83333,
+    "geom:longitude":-149.26667,
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Teahupoo"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0435\u0430\u0445\u0443\u043f\u043e"
+    ],
+    "name:deu_x_preferred":[
+        "Teahupoo"
+    ],
+    "name:dut_x_preferred":[
+        "Teahupo'o"
+    ],
+    "name:eng_x_preferred":[
+        "Teahupo'o"
+    ],
+    "name:fra_x_preferred":[
+        "Teahupoo"
+    ],
+    "name:fre_x_preferred":[
+        "Teahupoo"
+    ],
+    "name:ger_x_preferred":[
+        "Teahupoo"
+    ],
+    "name:lit_x_preferred":[
+        "Teahupoo"
+    ],
+    "name:nob_x_preferred":[
+        "Teahupoo"
+    ],
+    "name:nor_x_preferred":[
+        "Teahupoo"
+    ],
+    "name:por_x_preferred":[
+        "Teahupo'o"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0430\u0445\u0443\u043f\u043e\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Teahupo'o"
+    ],
+    "name:ukr_x_preferred":[
+        "Teahupoo"
+    ],
+    "name:unk_x_variant":[
+        "Teahupu"
+    ],
+    "qs:gn_country":"PF",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":4033543,
+    "qs:gn_pop":1422,
+    "qs:name":"Teahupoo",
+    "qs:name_adm0":"Polyn\u00e9sie Fran\u00e7aise",
+    "qs:name_adm1":"\u00celes du Vent",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":498071,
+    "qs:woe_adm0":23424817,
+    "qs:woe_id":15021112,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":973,
+    "wof:belongsto":[
+        85676727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4033543,
+        "gp:id":15021112,
+        "qs:id":498071,
+        "wd:id":"Q1426729",
+        "wk:page":"Teahupo'o"
+    },
+    "wof:country":"PF",
+    "wof:created":1459009763,
+    "wof:geomhash":"41b14fd87d16d0c336467bbfcfcae861",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":421193185,
+            "region_id":85676727
+        }
+    ],
+    "wof:id":421193185,
+    "wof:lastmodified":1527716152,
+    "wof:name":"Teahupoo",
+    "wof:parent_id":85676727,
+    "wof:placetype":"locality",
+    "wof:population":1422,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.26667,
+    -17.83333,
+    -149.26667,
+    -17.83333
+],
+  "geometry": {"coordinates":[-149.26667,-17.83333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260300173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.85,-17.5,-149.85,-17.5",
+    "geom:latitude":-17.5,
+    "geom:longitude":-149.85,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Orufara",
+    "gn:country_code":"PF",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4034043,
+    "gn:latitude":-17.5,
+    "gn:longitude":-149.85,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Orufara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653,
+        85676727,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034043
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"afef7bda89bfaaca702ceaea8ba7c53a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":1260300173,
+            "region_id":85676727
+        }
+    ],
+    "wof:id":1260300173,
+    "wof:lastmodified":1536689534,
+    "wof:name":"Orufara",
+    "wof:parent_id":85676727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.85,
+    -17.5,
+    -149.85,
+    -17.5
+],
+  "geometry": {"coordinates":[-149.84999999999999,-17.5],"type":"Point"}
+}

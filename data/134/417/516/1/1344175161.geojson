@@ -1,0 +1,66 @@
+{
+  "id": 1344175161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.53333,-17.76667,-149.53333,-17.76667",
+    "geom:latitude":-17.76667,
+    "geom:longitude":-149.53333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mahaiutea",
+    "gn:cc2":"PF",
+    "gn:country_code":"PF",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4034313,
+    "gn:latitude":-17.76667,
+    "gn:longitude":-149.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mahaiutea",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marae",
+        "Mahaiutea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034313
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"cc5e9144d751ce9e2ec971ee999210c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344175161,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344175161,
+    "wof:lastmodified":1537677015,
+    "wof:name":"Mahaiutea",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.53333,
+    -17.76667,
+    -149.53333,
+    -17.76667
+],
+  "geometry": {"coordinates":[-149.53333000000001,-17.76667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259501863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.5,-23.4,-149.5,-23.4",
+    "geom:latitude":-23.4,
+    "geom:longitude":-149.5,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tepu",
+    "gn:country_code":"PF",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4033433,
+    "gn:latitude":-23.4,
+    "gn:longitude":-149.5,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Tepu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4033433
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"7430a8ffa85f572f246ff7a5ab6ef6bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":1259501863,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259501863,
+    "wof:lastmodified":1536831383,
+    "wof:name":"Tepu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.5,
+    -23.4,
+    -149.5,
+    -23.4
+],
+  "geometry": {"coordinates":[-149.5,-23.4],"type":"Point"}
+}

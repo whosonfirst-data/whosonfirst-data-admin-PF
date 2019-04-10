@@ -1,0 +1,67 @@
+{
+  "id": 1327044835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-138.61875,-10.48509,-138.61875,-10.48509",
+    "geom:latitude":-10.48509,
+    "geom:longitude":-138.61875,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ouia",
+    "gn:country_code":"PF",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4030571,
+    "gn:latitude":-10.48509,
+    "gn:longitude":-138.61875,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ouia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Marquesas",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4030571
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"ddf46764f5448772c5214bcccedd710a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":1327044835,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327044835,
+    "wof:lastmodified":1536742214,
+    "wof:name":"Ouia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -138.61875,
+    -10.48509,
+    -138.61875,
+    -10.48509
+],
+  "geometry": {"coordinates":[-138.61875000000001,-10.48509],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 421187871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-151.0,-16.76667,-151.0,-16.76667",
+    "geom:latitude":-16.76667,
+    "geom:longitude":-151.0,
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:mar_x_preferred":[
+        "\u0939\u093e\u092a\u0942\u0938"
+    ],
+    "qs:gn_country":"PF",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":4034434,
+    "qs:gn_pop":579,
+    "qs:name":"Haapu",
+    "qs:name_adm0":"Polyn\u00e9sie Fran\u00e7aise",
+    "qs:name_adm1":"\u00celes sous le Vent",
+    "qs:photos":425,
+    "qs:photos_1k":86,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":425,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":1086443,
+    "qs:woe_adm0":23424817,
+    "qs:woe_id":28752847,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":392,
+    "wof:belongsto":[
+        85632653,
+        85676731,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034434,
+        "gp:id":28752847,
+        "qs:id":1086443,
+        "wd:id":"Q5636534"
+    },
+    "wof:country":"PF",
+    "wof:created":1459009526,
+    "wof:geomhash":"9aa37867495258af2006dccf69640492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":421187871,
+            "region_id":85676731
+        }
+    ],
+    "wof:id":421187871,
+    "wof:lastmodified":1527716250,
+    "wof:name":"Haapu",
+    "wof:parent_id":85676731,
+    "wof:placetype":"locality",
+    "wof:population":579,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -151.0,
+    -16.76667,
+    -151.0,
+    -16.76667
+],
+  "geometry": {"coordinates":[-151.0,-16.76667],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1343680105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-146.35557,-14.53964,-146.35557,-14.53964",
+    "geom:latitude":-14.53964,
+    "geom:longitude":-146.35557,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tenukupara",
+    "gn:country_code":"PF",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4033453,
+    "gn:latitude":-14.53964,
+    "gn:longitude":-146.35557,
+    "gn:modification_date":"2017-01-09",
+    "gn:name":"Tenukupara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tenokupara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4033453
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"572f757a781accaf90572c256f95c5ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343680105,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343680105,
+    "wof:lastmodified":1537677014,
+    "wof:name":"Tenukupara",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -146.35557,
+    -14.53964,
+    -146.35557,
+    -14.53964
+],
+  "geometry": {"coordinates":[-146.35557,-14.53964],"type":"Point"}
+}

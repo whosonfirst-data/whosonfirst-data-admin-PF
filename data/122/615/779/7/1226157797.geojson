@@ -1,0 +1,65 @@
+{
+  "id": 1226157797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-145.25,-14.7,-145.25,-14.7",
+    "geom:latitude":-14.7,
+    "geom:longitude":-145.25,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fakatopatere",
+    "gn:country_code":"PF",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4034508,
+    "gn:latitude":-14.7,
+    "gn:longitude":-145.25,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Fakatopatere",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136253037,
+        85676737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034508
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"0575dc62dcfe6671c4626e2ddc3d2e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "empire_id":136253037,
+            "locality_id":1226157797,
+            "region_id":85676737
+        }
+    ],
+    "wof:id":1226157797,
+    "wof:lastmodified":1537057721,
+    "wof:name":"Fakatopatere",
+    "wof:parent_id":85676737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -145.25,
+    -14.7,
+    -145.25,
+    -14.7
+],
+  "geometry": {"coordinates":[-145.25,-14.7],"type":"Point"}
+}

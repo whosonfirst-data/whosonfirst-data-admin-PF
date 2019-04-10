@@ -1,0 +1,65 @@
+{
+  "id": 1292918155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-134.99722,-23.12083,-134.99722,-23.12083",
+    "geom:latitude":-23.12083,
+    "geom:longitude":-134.99722,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kokohue",
+    "gn:country_code":"PF",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4030859,
+    "gn:latitude":-23.12083,
+    "gn:longitude":-134.99722,
+    "gn:modification_date":"1998-01-20",
+    "gn:name":"Kokohue",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Gambier",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136253037,
+        85676737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4030859
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"ac53dc7904444a67d178fefdda697295",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "empire_id":136253037,
+            "locality_id":1292918155,
+            "region_id":85676737
+        }
+    ],
+    "wof:id":1292918155,
+    "wof:lastmodified":1536611080,
+    "wof:name":"Kokohue",
+    "wof:parent_id":85676737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -134.99722,
+    -23.12083,
+    -134.99722,
+    -23.12083
+],
+  "geometry": {"coordinates":[-134.99722,-23.12083],"type":"Point"}
+}

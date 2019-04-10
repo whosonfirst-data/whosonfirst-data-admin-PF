@@ -1,0 +1,61 @@
+{
+  "id": 1209629003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.89705,-17.49291,-149.89705,-17.49291",
+    "geom:latitude":-17.49291,
+    "geom:longitude":-149.89705,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tiahura",
+    "gn:country_code":"PF",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11002923,
+    "gn:latitude":-17.49291,
+    "gn:longitude":-149.89705,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Tiahura",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11002923
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"45cf553852a8dd215211c0f04e0f9525",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632653,
+            "locality_id":1209629003
+        }
+    ],
+    "wof:id":1209629003,
+    "wof:lastmodified":1536281254,
+    "wof:name":"Tiahura",
+    "wof:parent_id":85632653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.89705,
+    -17.492910000000002,
+    -149.89705,
+    -17.492910000000002
+],
+  "geometry": {"coordinates":[-149.89705000000001,-17.49291],"type":"Point"}
+}

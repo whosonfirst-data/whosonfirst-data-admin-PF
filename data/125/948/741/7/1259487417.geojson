@@ -1,0 +1,61 @@
+{
+  "id": 1259487417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.83965,-17.58475,-149.83965,-17.58475",
+    "geom:latitude":-17.58475,
+    "geom:longitude":-149.83965,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Atiha",
+    "gn:country_code":"PF",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11002820,
+    "gn:latitude":-17.58475,
+    "gn:longitude":-149.83965,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Atiha",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11002820
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"b43057ab2dcf0d7746187c0eca05480c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259487417,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259487417,
+    "wof:lastmodified":1536852005,
+    "wof:name":"Atiha",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.83965,
+    -17.58475,
+    -149.83965,
+    -17.58475
+],
+  "geometry": {"coordinates":[-149.83965000000001,-17.58475],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209730029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.81667,-17.5,-149.81667,-17.5",
+    "geom:latitude":-17.5,
+    "geom:longitude":-149.81667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Otumai",
+    "gn:cc2":"PF",
+    "gn:country_code":"PF",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4034028,
+    "gn:latitude":-17.5,
+    "gn:longitude":-149.81667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Otumai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ootomai",
+        "Otumai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653,
+        85676727,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034028
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"83aa843c2c1aa5e6de9dfc431f841321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":1209730029,
+            "region_id":85676727
+        }
+    ],
+    "wof:id":1209730029,
+    "wof:lastmodified":1537677015,
+    "wof:name":"Otumai",
+    "wof:parent_id":85676727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.81667,
+    -17.5,
+    -149.81667,
+    -17.5
+],
+  "geometry": {"coordinates":[-149.81666999999999,-17.5],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1327242187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-138.45014,-17.34548,-138.45014,-17.34548",
+    "geom:latitude":-17.34548,
+    "geom:longitude":-138.45014,
+    "gn:asciiname":"Tumukuru",
+    "gn:country_code":"PF",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8531917,
+    "gn:latitude":-17.34548,
+    "gn:longitude":-138.45014,
+    "gn:modification_date":"2013-05-20",
+    "gn:name":"Tumukuru",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136253037,
+        85676737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8531917
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"5f2b510d81405cae5411d51075de2085",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "empire_id":136253037,
+            "locality_id":1327242187,
+            "region_id":85676737
+        }
+    ],
+    "wof:id":1327242187,
+    "wof:lastmodified":1536955402,
+    "wof:name":"Tumukuru",
+    "wof:parent_id":85676737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -138.45014,
+    -17.34548,
+    -138.45014,
+    -17.34548
+],
+  "geometry": {"coordinates":[-138.45014,-17.34548],"type":"Point"}
+}

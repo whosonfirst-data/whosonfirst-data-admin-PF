@@ -1,0 +1,68 @@
+{
+  "id": 1276246907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-139.11135,-9.94169,-139.11135,-9.94169",
+    "geom:latitude":-9.94169,
+    "geom:longitude":-139.11135,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hanamiai",
+    "gn:country_code":"PF",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4020046,
+    "gn:latitude":-9.94169,
+    "gn:longitude":-139.11135,
+    "gn:modification_date":"2016-07-25",
+    "gn:name":"Hanamiai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Marquesas",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653,
+        85676745,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4020046
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"569cdc6ff0a87ba2127540e14f1af1d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":1276246907,
+            "region_id":85676745
+        }
+    ],
+    "wof:id":1276246907,
+    "wof:lastmodified":1536894189,
+    "wof:name":"Hanamiai",
+    "wof:parent_id":85676745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -139.11135,
+    -9.94169,
+    -139.11135,
+    -9.94169
+],
+  "geometry": {"coordinates":[-139.11134999999999,-9.94169],"type":"Point"}
+}

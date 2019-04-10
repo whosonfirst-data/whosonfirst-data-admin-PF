@@ -1,0 +1,97 @@
+{
+  "id": 421202787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.15,-17.73333,-149.15,-17.73333",
+    "geom:latitude":-17.73333,
+    "geom:longitude":-149.15,
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0422\u0430\u0443\u0442\u0438\u0440\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Tautira"
+    ],
+    "name:eng_x_preferred":[
+        "Tautira"
+    ],
+    "name:fra_x_preferred":[
+        "Tautira"
+    ],
+    "name:fre_x_preferred":[
+        "Tautira"
+    ],
+    "name:spa_x_preferred":[
+        "Tautira"
+    ],
+    "name:unk_x_variant":[
+        "Tautera"
+    ],
+    "qs:gn_country":"PF",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":4033557,
+    "qs:gn_pop":2293,
+    "qs:name":"Tautira",
+    "qs:name_adm0":"Polyn\u00e9sie Fran\u00e7aise",
+    "qs:name_adm1":"\u00celes du Vent",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":49251,
+    "qs:woe_adm0":23424817,
+    "qs:woe_id":15021107,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":1737,
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4033557,
+        "gp:id":15021107,
+        "qs:id":49251,
+        "wd:id":"Q3516204",
+        "wk:page":"Tautira"
+    },
+    "wof:country":"PF",
+    "wof:created":1459010130,
+    "wof:geomhash":"3c0e1a91c6496e5ca7d2065704355959",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":421202787,
+            "region_id":-1
+        }
+    ],
+    "wof:id":421202787,
+    "wof:lastmodified":1527716213,
+    "wof:name":"Tautira",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":2293,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.15,
+    -17.73333,
+    -149.15,
+    -17.73333
+],
+  "geometry": {"coordinates":[-149.15000000000001,-17.73333],"type":"Point"}
+}

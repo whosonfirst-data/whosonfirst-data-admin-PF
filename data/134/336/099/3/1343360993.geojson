@@ -1,0 +1,65 @@
+{
+  "id": 1343360993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-146.33333,-16.13333,-146.33333,-16.13333",
+    "geom:latitude":-16.13333,
+    "geom:longitude":-146.33333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tupana",
+    "gn:country_code":"PF",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4033235,
+    "gn:latitude":-16.13333,
+    "gn:longitude":-146.33333,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Tupana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136253037,
+        85676737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4033235
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"0f7269af552a0a65bbf67fcec3e18478",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "empire_id":136253037,
+            "locality_id":1343360993,
+            "region_id":85676737
+        }
+    ],
+    "wof:id":1343360993,
+    "wof:lastmodified":1536889313,
+    "wof:name":"Tupana",
+    "wof:parent_id":85676737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -146.33333000000005,
+    -16.13332999999999,
+    -146.33333000000005,
+    -16.13332999999999
+],
+  "geometry": {"coordinates":[-146.33333000000005,-16.13332999999999],"type":"Point"}
+}

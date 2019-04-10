@@ -1,0 +1,65 @@
+{
+  "id": 1226061079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-134.97389,-23.10056,-134.97389,-23.10056",
+    "geom:latitude":-23.10056,
+    "geom:longitude":-134.97389,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kirimiro",
+    "gn:country_code":"PF",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4030617,
+    "gn:latitude":-23.10056,
+    "gn:longitude":-134.97389,
+    "gn:modification_date":"1997-10-16",
+    "gn:name":"Kirimiro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Gambier",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136253037,
+        85676737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4030617
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"ee48b1f33298d1282788d17d39b52b26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "empire_id":136253037,
+            "locality_id":1226061079,
+            "region_id":85676737
+        }
+    ],
+    "wof:id":1226061079,
+    "wof:lastmodified":1536703346,
+    "wof:name":"Kirimiro",
+    "wof:parent_id":85676737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -134.97388999999998,
+    -23.10056,
+    -134.97388999999998,
+    -23.10056
+],
+  "geometry": {"coordinates":[-134.97388999999998,-23.10056],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 421202789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.33333,-17.53333,-149.33333,-17.53333",
+    "geom:latitude":-17.53333,
+    "geom:longitude":-149.33333,
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PF",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":4033356,
+    "qs:gn_pop":2795,
+    "qs:name":"Tiarei",
+    "qs:name_adm0":"Polyn\u00e9sie Fran\u00e7aise",
+    "qs:name_adm1":"\u00celes du Vent",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":49269,
+    "qs:woe_adm0":23424817,
+    "qs:woe_id":15021106,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4033356,
+        "gp:id":15021106,
+        "qs:id":49269
+    },
+    "wof:country":"PF",
+    "wof:created":1459010130,
+    "wof:geomhash":"4c81cfb4ddedb56d75f0fe43aad0160c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":421202789,
+            "region_id":-1
+        }
+    ],
+    "wof:id":421202789,
+    "wof:lastmodified":1506729016,
+    "wof:name":"Tiarei",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":2795,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.33333,
+    -17.53333,
+    -149.33333,
+    -17.53333
+],
+  "geometry": {"coordinates":[-149.33332999999999,-17.53333],"type":"Point"}
+}

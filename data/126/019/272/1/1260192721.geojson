@@ -1,0 +1,65 @@
+{
+  "id": 1260192721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-134.96,-23.09361,-134.96,-23.09361",
+    "geom:latitude":-23.09361,
+    "geom:longitude":-134.96,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Apeakava",
+    "gn:country_code":"PF",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4030679,
+    "gn:latitude":-23.09361,
+    "gn:longitude":-134.96,
+    "gn:modification_date":"1997-10-16",
+    "gn:name":"Apeakava",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Gambier",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136253037,
+        85676737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4030679
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"02467e615a539583bc47bf60f2ff3f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "empire_id":136253037,
+            "locality_id":1260192721,
+            "region_id":85676737
+        }
+    ],
+    "wof:id":1260192721,
+    "wof:lastmodified":1536834170,
+    "wof:name":"Apeakava",
+    "wof:parent_id":85676737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -134.96,
+    -23.09361,
+    -134.96,
+    -23.09361
+],
+  "geometry": {"coordinates":[-134.96000000000001,-23.09361],"type":"Point"}
+}

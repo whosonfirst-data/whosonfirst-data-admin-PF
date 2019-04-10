@@ -1,0 +1,65 @@
+{
+  "id": 1309818397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-134.95278,-23.08778,-134.95278,-23.08778",
+    "geom:latitude":-23.08778,
+    "geom:longitude":-134.95278,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kairori",
+    "gn:country_code":"PF",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4030863,
+    "gn:latitude":-23.08778,
+    "gn:longitude":-134.95278,
+    "gn:modification_date":"1998-01-20",
+    "gn:name":"Kairori",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Gambier",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136253037,
+        85676737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4030863
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"1669c4db031a37d9840267d21713b847",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "empire_id":136253037,
+            "locality_id":1309818397,
+            "region_id":85676737
+        }
+    ],
+    "wof:id":1309818397,
+    "wof:lastmodified":1536913270,
+    "wof:name":"Kairori",
+    "wof:parent_id":85676737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -134.95278000000002,
+    -23.08778,
+    -134.95278000000002,
+    -23.08778
+],
+  "geometry": {"coordinates":[-134.95278000000002,-23.08778],"type":"Point"}
+}

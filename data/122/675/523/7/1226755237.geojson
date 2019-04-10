@@ -1,0 +1,61 @@
+{
+  "id": 1226755237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-144.35645,-16.36618,-144.35645,-16.36618",
+    "geom:latitude":-16.36618,
+    "geom:longitude":-144.35645,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Toini",
+    "gn:country_code":"PF",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4033289,
+    "gn:latitude":-16.36618,
+    "gn:longitude":-144.35645,
+    "gn:modification_date":"2013-10-05",
+    "gn:name":"Toini",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4033289
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"4b1bd7ff0264d32195f026a98a7c7998",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226755237,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226755237,
+    "wof:lastmodified":1536702075,
+    "wof:name":"Toini",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -144.35645,
+    -16.36618,
+    -144.35645,
+    -16.36618
+],
+  "geometry": {"coordinates":[-144.35645,-16.36618],"type":"Point"}
+}

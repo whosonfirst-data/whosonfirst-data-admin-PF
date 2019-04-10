@@ -1,0 +1,67 @@
+{
+  "id": 1360103275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.31667,-17.63333,-149.31667,-17.63333",
+    "geom:latitude":-17.63333,
+    "geom:longitude":-149.31667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Faatautia",
+    "gn:country_code":"PF",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4034528,
+    "gn:latitude":-17.63333,
+    "gn:longitude":-149.31667,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Faatautia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034528
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"e6c0d31cdaefa85283183e3d734a099f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":1360103275,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360103275,
+    "wof:lastmodified":1536920013,
+    "wof:name":"Faatautia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.31667,
+    -17.63332999999999,
+    -149.31667,
+    -17.63332999999999
+],
+  "geometry": {"coordinates":[-149.31666999999999,-17.63332999999999],"type":"Point"}
+}

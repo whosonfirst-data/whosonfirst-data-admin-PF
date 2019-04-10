@@ -1,0 +1,70 @@
+{
+  "id": 1226144743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-145.51709,-17.34605,-145.51709,-17.34605",
+    "geom:latitude":-17.34605,
+    "geom:longitude":-145.51709,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"10295215",
+    "gn:asciiname":"Tukuhora",
+    "gn:cc2":"PF",
+    "gn:country_code":"PF",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4033243,
+    "gn:latitude":-17.34605,
+    "gn:longitude":-145.51709,
+    "gn:modification_date":"2017-01-09",
+    "gn:name":"Tukuhora",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043a\u0443\u0445\u043e\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tuuhora",
+        "Tukuhora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4033243
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"baf84d4b8474e1e2782094c38da152b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226144743,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226144743,
+    "wof:lastmodified":1537677014,
+    "wof:name":"Tukuhora",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -145.51709,
+    -17.34605,
+    -145.51709,
+    -17.34605
+],
+  "geometry": {"coordinates":[-145.51709,-17.34605],"type":"Point"}
+}

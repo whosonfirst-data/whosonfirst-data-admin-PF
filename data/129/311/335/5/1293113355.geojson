@@ -1,0 +1,67 @@
+{
+  "id": 1293113355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-150.98054,-16.80786,-150.98054,-16.80786",
+    "geom:latitude":-16.80786,
+    "geom:longitude":-150.98054,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Parea",
+    "gn:country_code":"PF",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8554434,
+    "gn:latitude":-16.80786,
+    "gn:longitude":-150.98054,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Parea",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8554434
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"995b408e6e56a603fa58af22b32e5550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":1293113355,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293113355,
+    "wof:lastmodified":1536828450,
+    "wof:name":"Parea",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -150.98054,
+    -16.80786,
+    -150.98054,
+    -16.80786
+],
+  "geometry": {"coordinates":[-150.98053999999999,-16.80786],"type":"Point"}
+}

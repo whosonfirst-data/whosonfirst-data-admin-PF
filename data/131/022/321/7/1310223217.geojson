@@ -1,0 +1,73 @@
+{
+  "id": 1310223217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.23333,-17.73333,-149.23333,-17.73333",
+    "geom:latitude":-17.73333,
+    "geom:longitude":-149.23333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Paraeo",
+    "gn:cc2":"PF",
+    "gn:country_code":"PF",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4033904,
+    "gn:latitude":-17.73333,
+    "gn:longitude":-149.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Paraeo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taraeo",
+        "Paraeo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653,
+        85676727,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4033904
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"0e35025ddcb19388b3f30ddc188cdc35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":1310223217,
+            "region_id":85676727
+        }
+    ],
+    "wof:id":1310223217,
+    "wof:lastmodified":1537677015,
+    "wof:name":"Paraeo",
+    "wof:parent_id":85676727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.23333,
+    -17.73333,
+    -149.23333,
+    -17.73333
+],
+  "geometry": {"coordinates":[-149.23333,-17.73333],"type":"Point"}
+}

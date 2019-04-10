@@ -1,0 +1,65 @@
+{
+  "id": 1293019219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-134.98111,-23.11722,-134.98111,-23.11722",
+    "geom:latitude":-23.11722,
+    "geom:longitude":-134.98111,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gatavake",
+    "gn:country_code":"PF",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4030650,
+    "gn:latitude":-23.11722,
+    "gn:longitude":-134.98111,
+    "gn:modification_date":"1997-10-16",
+    "gn:name":"Gatavak\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Gambier",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136253037,
+        85676737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4030650
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"85ac9a44ebe1479c93d4992dbd0546c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "empire_id":136253037,
+            "locality_id":1293019219,
+            "region_id":85676737
+        }
+    ],
+    "wof:id":1293019219,
+    "wof:lastmodified":1536964943,
+    "wof:name":"Gatavake",
+    "wof:parent_id":85676737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -134.98111,
+    -23.11722,
+    -134.98111,
+    -23.11722
+],
+  "geometry": {"coordinates":[-134.98111,-23.11722],"type":"Point"}
+}

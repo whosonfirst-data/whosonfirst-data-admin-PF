@@ -1,0 +1,76 @@
+{
+  "id": 1260299649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.5,-17.51667,-149.5,-17.51667",
+    "geom:latitude":-17.51667,
+    "geom:longitude":-149.5,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Arue",
+    "gn:country_code":"PF",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4034636,
+    "gn:latitude":-17.51667,
+    "gn:longitude":-149.5,
+    "gn:modification_date":"2013-08-18",
+    "gn:name":"Arue",
+    "gn:population":9458,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arve",
+        "Arue"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632653,
+        85676727,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034636,
+        "wk:page":"Arue%2C_French_Polynesia"
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"37422f1d1c7602789fc00c0c70a0d07f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":1260299649,
+            "region_id":85676727
+        }
+    ],
+    "wof:id":1260299649,
+    "wof:lastmodified":1537677016,
+    "wof:name":"Arue",
+    "wof:parent_id":85676727,
+    "wof:placetype":"locality",
+    "wof:population":9458,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.5,
+    -17.51667,
+    -149.5,
+    -17.51667
+],
+  "geometry": {"coordinates":[-149.5,-17.51667],"type":"Point"}
+}

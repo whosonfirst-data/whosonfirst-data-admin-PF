@@ -1,0 +1,68 @@
+{
+  "id": 1343671459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.91377,-17.50729,-149.91377,-17.50729",
+    "geom:latitude":-17.50729,
+    "geom:longitude":-149.91377,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hauru",
+    "gn:country_code":"PF",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8616973,
+    "gn:latitude":-17.50729,
+    "gn:longitude":-149.91377,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Hauru",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653,
+        85676727,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8616973
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"b7f325bf8382571a34f13abbf5daf398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":1343671459,
+            "region_id":85676727
+        }
+    ],
+    "wof:id":1343671459,
+    "wof:lastmodified":1536939802,
+    "wof:name":"Hauru",
+    "wof:parent_id":85676727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.91377,
+    -17.50729,
+    -149.91377,
+    -17.50729
+],
+  "geometry": {"coordinates":[-149.91377,-17.50729],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1125871253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-140.05,-8.85,-140.05,-8.85",
+    "geom:latitude":-8.85,
+    "geom:longitude":-140.05,
+    "gn:gn_country":"PF",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":334,
+    "gn:population":334,
+    "iso:country":"PF",
+    "lbl:latitude":-8.85,
+    "lbl:longitude":-140.05,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PF",
+    "qs_pg:gn_country":"PF",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4031069,
+    "qs_pg:gn_pop":334,
+    "qs_pg:name":"Anaho",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":97089,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632653,
+        85676745,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4031069,
+        "qs_pg:id":97089
+    },
+    "wof:country":"PF",
+    "wof:created":1497294310,
+    "wof:geomhash":"fe946f16ad6e75edd03863817d800211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":1125871253,
+            "region_id":85676745
+        }
+    ],
+    "wof:id":1125871253,
+    "wof:lastmodified":1509998523,
+    "wof:name":"Anaho",
+    "wof:parent_id":85676745,
+    "wof:placetype":"locality",
+    "wof:population":334,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -140.05,
+    -8.85,
+    -140.05,
+    -8.85
+],
+  "geometry": {"coordinates":[-140.05000000000001,-8.85],"type":"Point"}
+}

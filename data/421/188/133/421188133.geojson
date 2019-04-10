@@ -1,0 +1,79 @@
+{
+  "id": 421188133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-151.34191,-22.45133,-151.34191,-22.45133",
+    "geom:latitude":-22.45133,
+    "geom:longitude":-151.34191,
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PF",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":4034188,
+    "qs:gn_pop":1044,
+    "qs:name":"Moerai",
+    "qs:name_adm0":"Polyn\u00e9sie Fran\u00e7aise",
+    "qs:name_adm1":"Australes",
+    "qs:photos":56,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":56,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":11373,
+    "qs:woe_adm0":23424817,
+    "qs:woe_id":28752895,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        85632653,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034188,
+        "gp:id":28752895,
+        "qs:id":11373
+    },
+    "wof:country":"PF",
+    "wof:created":1459009535,
+    "wof:geomhash":"734fdb3550ae8917e8482e7586f482f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":421188133,
+            "region_id":-1
+        }
+    ],
+    "wof:id":421188133,
+    "wof:lastmodified":1509998522,
+    "wof:name":"Moerai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1044,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -151.34191,
+    -22.45133,
+    -151.34191,
+    -22.45133
+],
+  "geometry": {"coordinates":[-151.34191000000001,-22.45133],"type":"Point"}
+}

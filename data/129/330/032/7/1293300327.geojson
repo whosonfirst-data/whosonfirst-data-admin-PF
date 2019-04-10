@@ -1,0 +1,66 @@
+{
+  "id": 1293300327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-136.46328,-18.46647,-136.46328,-18.46647",
+    "geom:latitude":-18.46647,
+    "geom:longitude":-136.46328,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"10295340",
+    "gn:asciiname":"Tapuarava",
+    "gn:country_code":"PF",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":11427336,
+    "gn:latitude":-18.46647,
+    "gn:longitude":-136.46328,
+    "gn:modification_date":"2017-01-09",
+    "gn:name":"Tapuarava",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tahiti",
+    "iso:country":"PF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136253037,
+        85676737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11427336
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"04cf302899b8eba5ac6b3a0b2ea95a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "empire_id":136253037,
+            "locality_id":1293300327,
+            "region_id":85676737
+        }
+    ],
+    "wof:id":1293300327,
+    "wof:lastmodified":1537054410,
+    "wof:name":"Tapuarava",
+    "wof:parent_id":85676737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -136.46328,
+    -18.46647,
+    -136.46328,
+    -18.46647
+],
+  "geometry": {"coordinates":[-136.46328,-18.46647],"type":"Point"}
+}
