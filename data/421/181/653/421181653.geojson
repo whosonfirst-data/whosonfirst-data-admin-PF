@@ -16,9 +16,6 @@
     "name:afr_x_preferred":[
         "Arue"
     ],
-    "name:alb_x_preferred":[
-        "Arue"
-    ],
     "name:arg_x_preferred":[
         "Arue"
     ],
@@ -28,22 +25,25 @@
     "name:bam_x_preferred":[
         "Arue"
     ],
-    "name:baq_x_preferred":[
-        "Arue"
-    ],
     "name:bar_x_preferred":[
         "Arue"
     ],
     "name:cat_x_preferred":[
         "Arue"
     ],
+    "name:ces_x_preferred":[
+        "Arue"
+    ],
     "name:cos_x_preferred":[
         "Arue"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Arue"
     ],
     "name:dan_x_preferred":[
+        "Arue"
+    ],
+    "name:deu_x_preferred":[
         "Arue"
     ],
     "name:eng_x_preferred":[
@@ -55,25 +55,25 @@
     "name:est_x_preferred":[
         "Arue"
     ],
+    "name:eus_x_preferred":[
+        "Arue"
+    ],
     "name:fao_x_preferred":[
         "Arue"
     ],
     "name:fin_x_preferred":[
         "Arue"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Arue"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Arue"
     ],
     "name:frp_x_preferred":[
         "Arue"
     ],
     "name:fur_x_preferred":[
-        "Arue"
-    ],
-    "name:ger_x_preferred":[
         "Arue"
     ],
     "name:gla_x_preferred":[
@@ -139,13 +139,13 @@
     "name:ltz_x_preferred":[
         "Arue"
     ],
-    "name:may_x_preferred":[
-        "Arue"
-    ],
     "name:min_x_preferred":[
         "Arue"
     ],
     "name:mlg_x_preferred":[
+        "Arue"
+    ],
+    "name:msa_x_preferred":[
         "Arue"
     ],
     "name:nap_x_preferred":[
@@ -190,7 +190,7 @@
     "name:roh_x_preferred":[
         "Arue"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Arue"
     ],
     "name:rus_x_preferred":[
@@ -202,10 +202,13 @@
     "name:sco_x_preferred":[
         "Arue"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Arue"
     ],
     "name:spa_x_preferred":[
+        "Arue"
+    ],
+    "name:sqi_x_preferred":[
         "Arue"
     ],
     "name:srd_x_preferred":[
@@ -239,9 +242,6 @@
         "Arue"
     ],
     "name:vol_x_preferred":[
-        "Arue"
-    ],
-    "name:wel_x_preferred":[
         "Arue"
     ],
     "name:wln_x_preferred":[
@@ -302,7 +302,7 @@
         }
     ],
     "wof:id":421181653,
-    "wof:lastmodified":1553816370,
+    "wof:lastmodified":1561778179,
     "wof:name":"Arue",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

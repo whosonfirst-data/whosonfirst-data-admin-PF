@@ -25,9 +25,6 @@
     "name:bam_x_preferred":[
         "Paea"
     ],
-    "name:baq_x_preferred":[
-        "Paea"
-    ],
     "name:bar_x_preferred":[
         "Paea"
     ],
@@ -37,19 +34,19 @@
     "name:cat_x_preferred":[
         "Paea"
     ],
+    "name:ces_x_preferred":[
+        "Paea"
+    ],
     "name:cos_x_preferred":[
         "Paea"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Paea"
     ],
     "name:dan_x_preferred":[
         "Paea"
     ],
     "name:deu_x_preferred":[
-        "Paea"
-    ],
-    "name:dut_x_preferred":[
         "Paea"
     ],
     "name:eng_x_preferred":[
@@ -59,6 +56,9 @@
         "Paea"
     ],
     "name:est_x_preferred":[
+        "Paea"
+    ],
+    "name:eus_x_preferred":[
         "Paea"
     ],
     "name:fao_x_preferred":[
@@ -73,16 +73,10 @@
     "name:frc_x_preferred":[
         "Paea"
     ],
-    "name:fre_x_preferred":[
-        "Paea"
-    ],
     "name:frp_x_preferred":[
         "Paea"
     ],
     "name:fur_x_preferred":[
-        "Paea"
-    ],
-    "name:ger_x_preferred":[
         "Paea"
     ],
     "name:gla_x_preferred":[
@@ -103,9 +97,6 @@
     "name:hun_x_preferred":[
         "Paea"
     ],
-    "name:ice_x_preferred":[
-        "Paea"
-    ],
     "name:ido_x_preferred":[
         "Paea"
     ],
@@ -116,6 +107,9 @@
         "Paea"
     ],
     "name:ind_x_preferred":[
+        "Paea"
+    ],
+    "name:isl_x_preferred":[
         "Paea"
     ],
     "name:ita_x_preferred":[
@@ -148,19 +142,22 @@
     "name:ltz_x_preferred":[
         "Paea"
     ],
-    "name:may_x_preferred":[
-        "Paea"
-    ],
     "name:min_x_preferred":[
         "Paea"
     ],
     "name:mlg_x_preferred":[
         "Paea"
     ],
+    "name:msa_x_preferred":[
+        "Paea"
+    ],
     "name:nap_x_preferred":[
         "Paea"
     ],
     "name:nds_x_preferred":[
+        "Paea"
+    ],
+    "name:nld_x_preferred":[
         "Paea"
     ],
     "name:nno_x_preferred":[
@@ -202,7 +199,7 @@
     "name:roh_x_preferred":[
         "Paea"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Paea"
     ],
     "name:scn_x_preferred":[
@@ -211,7 +208,7 @@
     "name:sco_x_preferred":[
         "Paea"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Paea"
     ],
     "name:spa_x_preferred":[
@@ -248,9 +245,6 @@
         "Paea"
     ],
     "name:vol_x_preferred":[
-        "Paea"
-    ],
-    "name:wel_x_preferred":[
         "Paea"
     ],
     "name:wln_x_preferred":[
@@ -306,7 +300,7 @@
         }
     ],
     "wof:id":421181661,
-    "wof:lastmodified":1527716324,
+    "wof:lastmodified":1561778179,
     "wof:name":"Paea",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

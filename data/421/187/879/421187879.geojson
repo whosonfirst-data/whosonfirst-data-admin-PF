@@ -28,9 +28,6 @@
     "name:bam_x_preferred":[
         "Tahaa"
     ],
-    "name:baq_x_preferred":[
-        "Tahaa"
-    ],
     "name:bar_x_preferred":[
         "Tahaa"
     ],
@@ -40,19 +37,19 @@
     "name:cat_x_preferred":[
         "Tahaa"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u54c8\u5cf6"
+    "name:ces_x_preferred":[
+        "Tahaa"
     ],
     "name:cos_x_preferred":[
         "Tahaa"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Tahaa"
     ],
     "name:dan_x_preferred":[
         "Tahaa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tahaa"
     ],
     "name:eng_x_preferred":[
@@ -64,25 +61,25 @@
     "name:est_x_preferred":[
         "Tahaa"
     ],
+    "name:eus_x_preferred":[
+        "Tahaa"
+    ],
     "name:fao_x_preferred":[
         "Tahaa"
     ],
     "name:fin_x_preferred":[
         "Tahaa"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Tahaa"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Tahaa"
     ],
     "name:frp_x_preferred":[
         "Tahaa"
     ],
     "name:fur_x_preferred":[
-        "Tahaa"
-    ],
-    "name:ger_x_preferred":[
         "Tahaa"
     ],
     "name:gla_x_preferred":[
@@ -103,9 +100,6 @@
     "name:hun_x_preferred":[
         "Tahaa"
     ],
-    "name:ice_x_preferred":[
-        "Tahaa"
-    ],
     "name:ido_x_preferred":[
         "Tahaa"
     ],
@@ -116,6 +110,9 @@
         "Tahaa"
     ],
     "name:ind_x_preferred":[
+        "Tahaa"
+    ],
+    "name:isl_x_preferred":[
         "Tahaa"
     ],
     "name:ita_x_preferred":[
@@ -151,19 +148,22 @@
     "name:ltz_x_preferred":[
         "Tahaa"
     ],
-    "name:may_x_preferred":[
-        "Tahaa"
-    ],
     "name:min_x_preferred":[
         "Tahaa"
     ],
     "name:mlg_x_preferred":[
         "Tahaa"
     ],
+    "name:msa_x_preferred":[
+        "Tahaa"
+    ],
     "name:nap_x_preferred":[
         "Tahaa"
     ],
     "name:nds_x_preferred":[
+        "Tahaa"
+    ],
+    "name:nld_x_preferred":[
         "Tahaa"
     ],
     "name:nno_x_preferred":[
@@ -205,7 +205,7 @@
     "name:roh_x_preferred":[
         "Tahaa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tahaa"
     ],
     "name:rus_x_preferred":[
@@ -217,7 +217,7 @@
     "name:sco_x_preferred":[
         "Tahaa"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tahaa"
     ],
     "name:spa_x_preferred":[
@@ -259,14 +259,14 @@
     "name:vol_x_preferred":[
         "Tahaa"
     ],
-    "name:wel_x_preferred":[
-        "Tahaa"
-    ],
     "name:wln_x_preferred":[
         "Tahaa"
     ],
     "name:wol_x_preferred":[
         "Tahaa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u54c8\u5cf6"
     ],
     "name:zul_x_preferred":[
         "Tahaa"
@@ -310,7 +310,7 @@
         }
     ],
     "wof:id":421187879,
-    "wof:lastmodified":1553816377,
+    "wof:lastmodified":1561778179,
     "wof:name":"Vaitoare",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

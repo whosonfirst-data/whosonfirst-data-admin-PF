@@ -13,19 +13,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Vairao"
     ],
     "name:eng_x_preferred":[
         "Vairao"
     ],
-    "name:fre_x_preferred":[
-        "Vairao"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Vairao"
     ],
     "name:lit_x_preferred":[
+        "Vairao"
+    ],
+    "name:nld_x_preferred":[
         "Vairao"
     ],
     "name:pol_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":421202797,
-    "wof:lastmodified":1527716203,
+    "wof:lastmodified":1561778179,
     "wof:name":"Vairao",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",
