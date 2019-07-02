@@ -27,9 +27,6 @@
     "name:bam_x_preferred":[
         "Papara"
     ],
-    "name:baq_x_preferred":[
-        "Papara"
-    ],
     "name:bar_x_preferred":[
         "Papara"
     ],
@@ -39,16 +36,19 @@
     "name:cat_x_preferred":[
         "Papara"
     ],
+    "name:ces_x_preferred":[
+        "Papara"
+    ],
     "name:cos_x_preferred":[
         "Papara"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Papara"
     ],
     "name:dan_x_preferred":[
         "Papara"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Papara"
     ],
     "name:eng_x_preferred":[
@@ -60,25 +60,25 @@
     "name:est_x_preferred":[
         "Papara"
     ],
+    "name:eus_x_preferred":[
+        "Papara"
+    ],
     "name:fao_x_preferred":[
         "Papara"
     ],
     "name:fin_x_preferred":[
         "Papara"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Papara"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Papara"
     ],
     "name:frp_x_preferred":[
         "Papara"
     ],
     "name:fur_x_preferred":[
-        "Papara"
-    ],
-    "name:ger_x_preferred":[
         "Papara"
     ],
     "name:gla_x_preferred":[
@@ -99,9 +99,6 @@
     "name:hun_x_preferred":[
         "Papara"
     ],
-    "name:ice_x_preferred":[
-        "Papara"
-    ],
     "name:ido_x_preferred":[
         "Papara"
     ],
@@ -112,6 +109,9 @@
         "Papara"
     ],
     "name:ind_x_preferred":[
+        "Papara"
+    ],
+    "name:isl_x_preferred":[
         "Papara"
     ],
     "name:ita_x_preferred":[
@@ -144,19 +144,22 @@
     "name:ltz_x_preferred":[
         "Papara"
     ],
-    "name:may_x_preferred":[
-        "Papara"
-    ],
     "name:min_x_preferred":[
         "Papara"
     ],
     "name:mlg_x_preferred":[
         "Papara"
     ],
+    "name:msa_x_preferred":[
+        "Papara"
+    ],
     "name:nap_x_preferred":[
         "Papara"
     ],
     "name:nds_x_preferred":[
+        "Papara"
+    ],
+    "name:nld_x_preferred":[
         "Papara"
     ],
     "name:nno_x_preferred":[
@@ -195,7 +198,7 @@
     "name:roh_x_preferred":[
         "Papara"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Papara"
     ],
     "name:rus_x_preferred":[
@@ -207,7 +210,7 @@
     "name:sco_x_preferred":[
         "Papara"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Papara"
     ],
     "name:spa_x_preferred":[
@@ -246,9 +249,6 @@
     "name:vol_x_preferred":[
         "Papara"
     ],
-    "name:wel_x_preferred":[
-        "Papara"
-    ],
     "name:wln_x_preferred":[
         "Papara"
     ],
@@ -282,7 +282,7 @@
         }
     ],
     "wof:id":890437251,
-    "wof:lastmodified":1514495977,
+    "wof:lastmodified":1561778180,
     "wof:name":"Papao",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

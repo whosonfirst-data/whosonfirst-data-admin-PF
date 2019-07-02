@@ -23,9 +23,6 @@
     "name:arg_x_preferred":[
         "Papeete"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0561\u057a\u0565\u0565\u057f\u0565"
-    ],
     "name:ast_x_preferred":[
         "Papeete"
     ],
@@ -33,9 +30,6 @@
         "Papeete"
     ],
     "name:bam_x_preferred":[
-        "Papeete"
-    ],
-    "name:baq_x_preferred":[
         "Papeete"
     ],
     "name:bar_x_preferred":[
@@ -66,25 +60,16 @@
     "name:ces_x_preferred":[
         "Papeete"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u76ae\u63d0"
-    ],
     "name:cos_x_preferred":[
         "Papeete"
     ],
     "name:cym_x_preferred":[
         "Papeete"
     ],
-    "name:cze_x_preferred":[
-        "Papeete"
-    ],
     "name:dan_x_preferred":[
         "Papeete"
     ],
     "name:deu_x_preferred":[
-        "Papeete"
-    ],
-    "name:dut_x_preferred":[
         "Papeete"
     ],
     "name:ell_x_preferred":[
@@ -120,9 +105,6 @@
     "name:frc_x_preferred":[
         "Papeete"
     ],
-    "name:fre_x_preferred":[
-        "Papeete"
-    ],
     "name:frp_x_preferred":[
         "Papeete"
     ],
@@ -130,12 +112,6 @@
         "Papeete"
     ],
     "name:fur_x_preferred":[
-        "Papeete"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10de\u10d4\u10d4\u10e2\u10d4"
-    ],
-    "name:ger_x_preferred":[
         "Papeete"
     ],
     "name:gla_x_preferred":[
@@ -146,9 +122,6 @@
     ],
     "name:glg_x_preferred":[
         "Papeete"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03c0\u03b5\u03ad\u03c4\u03b5"
     ],
     "name:gsw_x_preferred":[
         "Papeete"
@@ -177,9 +150,6 @@
     "name:hye_x_preferred":[
         "\u054a\u0561\u057a\u0565\u0565\u057f\u0565"
     ],
-    "name:ice_x_preferred":[
-        "Papeete"
-    ],
     "name:ido_x_preferred":[
         "Papeete"
     ],
@@ -190,6 +160,9 @@
         "Papeete"
     ],
     "name:ind_x_preferred":[
+        "Papeete"
+    ],
+    "name:isl_x_preferred":[
         "Papeete"
     ],
     "name:ita_x_preferred":[
@@ -240,14 +213,8 @@
     "name:ltz_x_preferred":[
         "Papeete"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0430\u043f\u0435\u0442\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u093e\u092a\u0940\u0924\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Papeete"
     ],
     "name:min_x_preferred":[
         "Papeete"
@@ -256,6 +223,9 @@
         "\u041f\u0430\u043f\u0435\u0442\u0435"
     ],
     "name:mlg_x_preferred":[
+        "Papeete"
+    ],
+    "name:msa_x_preferred":[
         "Papeete"
     ],
     "name:nap_x_preferred":[
@@ -291,9 +261,6 @@
     "name:pcd_x_preferred":[
         "Papeete"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u067e\u06cc\u062a\u0647"
-    ],
     "name:pih_x_preferred":[
         "Papeete."
     ],
@@ -321,9 +288,6 @@
     "name:ron_x_preferred":[
         "Papeete"
     ],
-    "name:rum_x_preferred":[
-        "Papeete"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043f\u0435\u044d\u0442\u0435"
     ],
@@ -337,9 +301,6 @@
         "\u0db4\u0dd0\u0db4\u0dd3\u0da7\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Papeete"
-    ],
-    "name:slo_x_preferred":[
         "Papeete"
     ],
     "name:slv_x_preferred":[
@@ -406,9 +367,6 @@
         "Papeete"
     ],
     "name:war_x_preferred":[
-        "Papeete"
-    ],
-    "name:wel_x_preferred":[
         "Papeete"
     ],
     "name:wln_x_preferred":[
@@ -562,7 +520,7 @@
         }
     ],
     "wof:id":421176587,
-    "wof:lastmodified":1527726473,
+    "wof:lastmodified":1561778179,
     "wof:name":"Papeete",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

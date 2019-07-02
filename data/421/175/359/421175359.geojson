@@ -28,23 +28,20 @@
     "name:deu_x_preferred":[
         "Vaitape"
     ],
-    "name:dut_x_preferred":[
-        "Vaitape"
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03ca\u03c4\u03ac\u03c0\u03b5"
     ],
     "name:eng_x_preferred":[
         "Vaitape"
+    ],
+    "name:fas_x_preferred":[
+        "vaitaipe"
     ],
     "name:fin_x_preferred":[
         "Vaitape"
     ],
     "name:fra_x_preferred":[
         "Vaitape"
-    ],
-    "name:fre_x_preferred":[
-        "Vaitape"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b1\u03ca\u03c4\u03ac\u03c0\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0a9f\u0ac7\u0aaa"
@@ -76,14 +73,14 @@
     "name:mar_x_preferred":[
         "\u0935\u094d\u0939\u093f\u091f\u0947\u092a"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Vaitape"
+    ],
+    "name:nld_x_preferred":[
         "Vaitape"
     ],
     "name:nob_x_preferred":[
         "Vaitapa"
-    ],
-    "name:per_x_preferred":[
-        "vaitaipe"
     ],
     "name:pol_x_preferred":[
         "Vaitape"
@@ -173,7 +170,7 @@
         }
     ],
     "wof:id":421175359,
-    "wof:lastmodified":1527716341,
+    "wof:lastmodified":1561778179,
     "wof:name":"Vaitape",
     "wof:parent_id":85676731,
     "wof:placetype":"locality",

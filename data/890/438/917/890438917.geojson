@@ -27,9 +27,6 @@
     "name:bam_x_preferred":[
         "Faaa"
     ],
-    "name:baq_x_preferred":[
-        "Faaa"
-    ],
     "name:bar_x_preferred":[
         "Faaa"
     ],
@@ -42,13 +39,13 @@
     "name:cat_x_preferred":[
         "Faaa"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd5\u963f"
+    "name:ces_x_preferred":[
+        "Faaa"
     ],
     "name:cos_x_preferred":[
         "Faaa"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Faaa"
     ],
     "name:dan_x_preferred":[
@@ -57,8 +54,8 @@
     "name:deu_x_preferred":[
         "Faa\u2019a"
     ],
-    "name:dut_x_preferred":[
-        "Faaa"
+    "name:ell_x_preferred":[
+        "\u03a6\u03b1\u03b1\u03ac"
     ],
     "name:eng_x_preferred":[
         "Faaa"
@@ -67,6 +64,9 @@
         "Faaa"
     ],
     "name:est_x_preferred":[
+        "Faaa"
+    ],
+    "name:eus_x_preferred":[
         "Faaa"
     ],
     "name:fao_x_preferred":[
@@ -81,17 +81,11 @@
     "name:frc_x_preferred":[
         "Faaa"
     ],
-    "name:fre_x_preferred":[
-        "Faaa"
-    ],
     "name:frp_x_preferred":[
         "Faaa"
     ],
     "name:fur_x_preferred":[
         "Faaa"
-    ],
-    "name:ger_x_preferred":[
-        "Faa\u2019a"
     ],
     "name:gla_x_preferred":[
         "Faaa"
@@ -101,9 +95,6 @@
     ],
     "name:glg_x_preferred":[
         "Faaa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03b1\u03b1\u03ac"
     ],
     "name:gsw_x_preferred":[
         "Faaa"
@@ -117,9 +108,6 @@
     "name:hun_x_preferred":[
         "Faaa"
     ],
-    "name:ice_x_preferred":[
-        "Faaa"
-    ],
     "name:ido_x_preferred":[
         "Faaa"
     ],
@@ -130,6 +118,9 @@
         "Faaa"
     ],
     "name:ind_x_preferred":[
+        "Faaa"
+    ],
+    "name:isl_x_preferred":[
         "Faaa"
     ],
     "name:ita_x_preferred":[
@@ -165,19 +156,22 @@
     "name:ltz_x_preferred":[
         "Faaa"
     ],
-    "name:may_x_preferred":[
-        "Faaa"
-    ],
     "name:min_x_preferred":[
         "Faaa"
     ],
     "name:mlg_x_preferred":[
         "Faaa"
     ],
+    "name:msa_x_preferred":[
+        "Faaa"
+    ],
     "name:nap_x_preferred":[
         "Faaa"
     ],
     "name:nds_x_preferred":[
+        "Faaa"
+    ],
+    "name:nld_x_preferred":[
         "Faaa"
     ],
     "name:nno_x_preferred":[
@@ -216,7 +210,7 @@
     "name:roh_x_preferred":[
         "Faaa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Faaa"
     ],
     "name:rus_x_preferred":[
@@ -228,7 +222,7 @@
     "name:sco_x_preferred":[
         "Faaa"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Faaa"
     ],
     "name:spa_x_preferred":[
@@ -270,14 +264,14 @@
     "name:vol_x_preferred":[
         "Faaa"
     ],
-    "name:wel_x_preferred":[
-        "Faaa"
-    ],
     "name:wln_x_preferred":[
         "Faaa"
     ],
     "name:wol_x_preferred":[
         "Faaa"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u963f"
     ],
     "name:zul_x_preferred":[
         "Faaa"
@@ -311,7 +305,7 @@
         }
     ],
     "wof:id":890438917,
-    "wof:lastmodified":1527735426,
+    "wof:lastmodified":1561778180,
     "wof:name":"Faaa",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

@@ -25,9 +25,6 @@
     "name:bam_x_preferred":[
         "Uturoa"
     ],
-    "name:baq_x_preferred":[
-        "Uturoa"
-    ],
     "name:bar_x_preferred":[
         "Uturoa"
     ],
@@ -37,19 +34,19 @@
     "name:cat_x_preferred":[
         "Uturoa"
     ],
+    "name:ces_x_preferred":[
+        "Uturoa"
+    ],
     "name:cos_x_preferred":[
         "Uturoa"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Uturoa"
     ],
     "name:dan_x_preferred":[
         "Uturoa"
     ],
     "name:deu_x_preferred":[
-        "Uturoa"
-    ],
-    "name:dut_x_preferred":[
         "Uturoa"
     ],
     "name:eng_x_preferred":[
@@ -59,6 +56,9 @@
         "Uturoa"
     ],
     "name:est_x_preferred":[
+        "Uturoa"
+    ],
+    "name:eus_x_preferred":[
         "Uturoa"
     ],
     "name:fao_x_preferred":[
@@ -73,16 +73,10 @@
     "name:frc_x_preferred":[
         "Uturoa"
     ],
-    "name:fre_x_preferred":[
-        "Uturoa"
-    ],
     "name:frp_x_preferred":[
         "Uturoa"
     ],
     "name:fur_x_preferred":[
-        "Uturoa"
-    ],
-    "name:ger_x_preferred":[
         "Uturoa"
     ],
     "name:gla_x_preferred":[
@@ -103,9 +97,6 @@
     "name:hun_x_preferred":[
         "Uturoa"
     ],
-    "name:ice_x_preferred":[
-        "Uturoa"
-    ],
     "name:ido_x_preferred":[
         "Uturoa"
     ],
@@ -116,6 +107,9 @@
         "Uturoa"
     ],
     "name:ind_x_preferred":[
+        "Uturoa"
+    ],
+    "name:isl_x_preferred":[
         "Uturoa"
     ],
     "name:ita_x_preferred":[
@@ -151,19 +145,22 @@
     "name:ltz_x_preferred":[
         "Uturoa"
     ],
-    "name:may_x_preferred":[
-        "Uturoa"
-    ],
     "name:min_x_preferred":[
         "Uturoa"
     ],
     "name:mlg_x_preferred":[
         "Uturoa"
     ],
+    "name:msa_x_preferred":[
+        "Uturoa"
+    ],
     "name:nap_x_preferred":[
         "Uturoa"
     ],
     "name:nds_x_preferred":[
+        "Uturoa"
+    ],
+    "name:nld_x_preferred":[
         "Uturoa"
     ],
     "name:nno_x_preferred":[
@@ -205,7 +202,7 @@
     "name:roh_x_preferred":[
         "Uturoa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Uturoa"
     ],
     "name:scn_x_preferred":[
@@ -214,7 +211,7 @@
     "name:sco_x_preferred":[
         "Uturoa"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Uturoa"
     ],
     "name:spa_x_preferred":[
@@ -248,9 +245,6 @@
         "Uturoa"
     ],
     "name:vol_x_preferred":[
-        "Uturoa"
-    ],
-    "name:wel_x_preferred":[
         "Uturoa"
     ],
     "name:wln_x_preferred":[
@@ -310,7 +304,7 @@
         }
     ],
     "wof:id":421168283,
-    "wof:lastmodified":1527716096,
+    "wof:lastmodified":1561778178,
     "wof:name":"Uturoa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

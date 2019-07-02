@@ -22,23 +22,17 @@
     "name:deu_x_preferred":[
         "Teahupoo"
     ],
-    "name:dut_x_preferred":[
-        "Teahupo'o"
-    ],
     "name:eng_x_preferred":[
         "Teahupo'o"
     ],
     "name:fra_x_preferred":[
         "Teahupoo"
     ],
-    "name:fre_x_preferred":[
-        "Teahupoo"
-    ],
-    "name:ger_x_preferred":[
-        "Teahupoo"
-    ],
     "name:lit_x_preferred":[
         "Teahupoo"
+    ],
+    "name:nld_x_preferred":[
+        "Teahupo'o"
     ],
     "name:nob_x_preferred":[
         "Teahupoo"
@@ -105,7 +99,7 @@
         }
     ],
     "wof:id":421193185,
-    "wof:lastmodified":1527716152,
+    "wof:lastmodified":1561778179,
     "wof:name":"Teahupoo",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

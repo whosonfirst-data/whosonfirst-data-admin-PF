@@ -27,9 +27,6 @@
     "name:bam_x_preferred":[
         "Taravao"
     ],
-    "name:baq_x_preferred":[
-        "Taravao"
-    ],
     "name:bar_x_preferred":[
         "Taravao"
     ],
@@ -39,16 +36,19 @@
     "name:cat_x_preferred":[
         "Taravao"
     ],
+    "name:ces_x_preferred":[
+        "Taravao"
+    ],
     "name:cos_x_preferred":[
         "Taravao"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Taravao"
     ],
     "name:dan_x_preferred":[
         "Taravao"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Taravao"
     ],
     "name:eng_x_preferred":[
@@ -60,25 +60,25 @@
     "name:est_x_preferred":[
         "Taravao"
     ],
+    "name:eus_x_preferred":[
+        "Taravao"
+    ],
     "name:fao_x_preferred":[
         "Taravao"
     ],
     "name:fin_x_preferred":[
         "Taravao"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Taravao"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Taravao"
     ],
     "name:frp_x_preferred":[
         "Taravao"
     ],
     "name:fur_x_preferred":[
-        "Taravao"
-    ],
-    "name:ger_x_preferred":[
         "Taravao"
     ],
     "name:gla_x_preferred":[
@@ -99,9 +99,6 @@
     "name:hun_x_preferred":[
         "Taravao"
     ],
-    "name:ice_x_preferred":[
-        "Taravao"
-    ],
     "name:ido_x_preferred":[
         "Taravao"
     ],
@@ -112,6 +109,9 @@
         "Taravao"
     ],
     "name:ind_x_preferred":[
+        "Taravao"
+    ],
+    "name:isl_x_preferred":[
         "Taravao"
     ],
     "name:ita_x_preferred":[
@@ -144,19 +144,22 @@
     "name:ltz_x_preferred":[
         "Taravao"
     ],
-    "name:may_x_preferred":[
-        "Taravao"
-    ],
     "name:min_x_preferred":[
         "Taravao"
     ],
     "name:mlg_x_preferred":[
         "Taravao"
     ],
+    "name:msa_x_preferred":[
+        "Taravao"
+    ],
     "name:nap_x_preferred":[
         "Taravao"
     ],
     "name:nds_x_preferred":[
+        "Taravao"
+    ],
+    "name:nld_x_preferred":[
         "Taravao"
     ],
     "name:nno_x_preferred":[
@@ -195,7 +198,7 @@
     "name:roh_x_preferred":[
         "Taravao"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Taravao"
     ],
     "name:rus_x_preferred":[
@@ -207,7 +210,7 @@
     "name:sco_x_preferred":[
         "Taravao"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Taravao"
     ],
     "name:spa_x_preferred":[
@@ -238,9 +241,6 @@
         "Taravao"
     ],
     "name:vol_x_preferred":[
-        "Taravao"
-    ],
-    "name:wel_x_preferred":[
         "Taravao"
     ],
     "name:wln_x_preferred":[
@@ -285,7 +285,7 @@
         }
     ],
     "wof:id":890438921,
-    "wof:lastmodified":1527735426,
+    "wof:lastmodified":1561778180,
     "wof:name":"Afaahiti",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",
