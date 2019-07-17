@@ -57,6 +57,9 @@
     "name:cat_x_preferred":[
         "Papeete"
     ],
+    "name:ceb_x_preferred":[
+        "Papeete"
+    ],
     "name:ces_x_preferred":[
         "Papeete"
     ],
@@ -83,6 +86,9 @@
     ],
     "name:epo_x_preferred":[
         "Papeeto"
+    ],
+    "name:epo_x_variant":[
+        "Papeete"
     ],
     "name:est_x_preferred":[
         "Papeete"
@@ -520,7 +526,7 @@
         }
     ],
     "wof:id":421176587,
-    "wof:lastmodified":1561778179,
+    "wof:lastmodified":1563321848,
     "wof:name":"Papeete",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

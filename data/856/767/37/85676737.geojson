@@ -25,30 +25,121 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u0644\u064a\u0633 \u062a\u0648\u0627\u0645\u0648\u062a\u0648-\u063a\u0627\u0645\u0628\u064a\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u0987\u09b2\u09c7\u09b8 \u099f\u09c1\u09af\u09bc\u09be\u09ae\u09a4\u09c1-\u0997\u09cd\u09af\u09be\u09ae\u09cd\u09ac\u09bf\u09af\u09bc\u09c7"
+    ],
     "name:cat_x_preferred":[
         "Tuamotu-Gambier"
     ],
+    "name:ceb_x_preferred":[
+        "\u00celes Tuamotu-Gambier"
+    ],
+    "name:dan_x_preferred":[
+        "\u00celes Tuamotu-Gambier"
+    ],
+    "name:deu_x_preferred":[
+        "\u00celes Tuamotu-Gambier"
+    ],
+    "name:ell_x_preferred":[
+        "\u038a\u03bb\u03b5\u03c2 \u03a4\u03bf\u03c5\u03b1\u03bc\u03cc\u03c4\u03bf\u03c5-\u0393\u03ba\u03ac\u03bc\u03c0\u03b9\u03b5\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Tuamotu-Gambier"
+    ],
+    "name:eng_x_variant":[
+        "\u00celes Tuamotu-Gambier"
+    ],
+    "name:fin_x_preferred":[
+        "\u00celes Tuamotu-Gambier"
     ],
     "name:fra_x_preferred":[
         "Archipels des Tuamotu et des Gambier"
     ],
     "name:fra_x_variant":[
         "Archipel des Tuamotu-Gambier",
-        "Tuamotu-Gambier"
+        "Tuamotu-Gambier",
+        "\u00celes Tuamotu-Gambier"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0ac7\u0ab8 \u0aa4\u0ac1\u0a86\u0aae\u0acb\u0a9f\u0acb-\u0a97\u0ac5\u0aae\u0acd\u0aac\u0abf\u0a85\u0ab0"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0932\u094d\u0938 \u0924\u0941\u092e\u094b\u091f\u0942-\u0917\u0948\u0902\u092c\u093f\u092f\u0930"
     ],
     "name:hun_x_preferred":[
         "Tuamotu-Gambier-szigetek"
     ],
+    "name:ind_x_preferred":[
+        "\u00celes Tuamotu-Gambier"
+    ],
+    "name:ita_x_preferred":[
+        "Isole Tuamotu-Gambier"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30a2\u30e2\u30c8\u30a5\u30fb\u30ac\u30f3\u30d3\u30a8\u8af8\u5cf6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c87\u0cb2\u0cbf\u0caf\u0cb8\u0ccd \u0ca4\u0cc1\u0cae\u0cbe\u0ca4\u0cc1-\u0c97\u0ccd\u0caf\u0cbe\u0c82\u0cac\u0cbf\u0cb0\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud22c\uc544\ubaa8\ud22c-\uac2c\ube44\uc5b4 \uc81c\ub3c4"
+    ],
+    "name:lav_x_preferred":[
+        "Tuamotu-Gambj\u0113 salas"
+    ],
     "name:lit_x_preferred":[
         "Tuamotu-Gambij\u0117 salos"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u094d\u0932\u0947\u0938 \u0924\u0941\u092e\u094b\u091f\u0942-\u0917\u0945\u092e\u094d\u092c\u093f\u092f\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Iles Tuamotu-Gambier"
+    ],
+    "name:nld_x_preferred":[
+        "Gambiereilanden"
+    ],
+    "name:nob_x_preferred":[
+        "Iles Tuamotu-Gambier"
+    ],
+    "name:pol_x_preferred":[
+        "\u00celes Tuamotu-Gambier"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u044c \u0422\u044e\u0430\u043c\u043e\u0442\u044e-\u0413\u0430\u043c\u0431\u044c\u0435"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d89\u0dbd\u0dd3\u0dc3\u0dca \u0da7\u0dd4\u0db8\u0ddc\u0da7\u0dd4-\u0d9c\u0db8\u0dca\u0db6\u0dd3\u0dbb\u0dca"
     ],
     "name:spa_x_preferred":[
         "Islas Tuamotu-Gambier"
     ],
+    "name:swe_x_preferred":[
+        "Iles Tuamotu-Gambier"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c07\u0c32\u0c46\u0c38\u0c4d \u0c1f\u0c41\u0c35\u0c3e\u0c2e\u0c4b\u0c1f\u0c41-\u0c17\u0c3e\u0c02\u0c2c\u0c3f\u0c2f\u0c46\u0c30\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e15\u0e31\u0e27\u0e42\u0e21\u0e15\u0e39-\u0e41\u0e01\u0e21\u0e40\u0e1a\u0e35\u0e22\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Iles Tuamotu-Gambier"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432\u0438 \u0422\u0443\u0430\u043c\u043e\u0442\u0443-\u0413\u0430\u043c\u0431'\u0454"
+    ],
     "name:unk_x_variant":[
         "\u00celes Tuamotu et Gambier"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0644\u06cc\u0633 \u062a\u0648\u0627\u0645\u0648\u062a\u0648-\u062c\u0627\u0645\u0628\u06cc\u06cc\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Iles Tuamotu-Gambier"
     ],
     "name:zho_x_preferred":[
         "\u571f\u963f\u83ab\u571f-\u7518\u6bd4\u5c14"
@@ -173,7 +264,7 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1553550488,
+    "wof:lastmodified":1563321813,
     "wof:name":"Tuamotu-Gambier",
     "wof:parent_id":-1,
     "wof:placetype":"region",

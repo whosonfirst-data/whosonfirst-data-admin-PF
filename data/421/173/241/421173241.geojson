@@ -31,7 +31,13 @@
     "name:bre_x_preferred":[
         "Faaone"
     ],
+    "name:bul_x_preferred":[
+        "\u0424\u0430\u043e\u043d\u0435"
+    ],
     "name:cat_x_preferred":[
+        "Faaone"
+    ],
+    "name:ceb_x_preferred":[
         "Faaone"
     ],
     "name:ces_x_preferred":[
@@ -296,7 +302,7 @@
         }
     ],
     "wof:id":421173241,
-    "wof:lastmodified":1561778179,
+    "wof:lastmodified":1563321841,
     "wof:name":"Faaone",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -16,7 +16,13 @@
     "name:bul_x_preferred":[
         "\u0424\u0438\u0442\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Fitii"
+    ],
     "name:eng_x_preferred":[
+        "Fitii"
+    ],
+    "name:fra_x_preferred":[
         "Fitii"
     ],
     "name:spa_x_preferred":[
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":421175191,
-    "wof:lastmodified":1514495835,
+    "wof:lastmodified":1563321844,
     "wof:name":"Fitii",
     "wof:parent_id":85676731,
     "wof:placetype":"locality",

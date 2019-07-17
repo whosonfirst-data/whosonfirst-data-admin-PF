@@ -13,11 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Maroe"
+    ],
     "name:eng_x_preferred":[
         "Maroe"
     ],
     "name:fra_x_preferred":[
         "Maro'e"
+    ],
+    "name:fra_x_variant":[
+        "Maroe"
     ],
     "name:spa_x_preferred":[
         "Maroe"
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":421187873,
-    "wof:lastmodified":1514495975,
+    "wof:lastmodified":1563321840,
     "wof:name":"Maroe",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -25,14 +25,236 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Marquesaseilande"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u0631 \u0645\u0627\u0631\u0643\u064a\u0633\u0627\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Isles Marqueses"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0456\u0437\u0441\u043a\u0456\u044f \u0430\u0441\u0442\u0440\u0430\u0432\u044b"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b0\u09cd\u0995\u09c7\u09b8\u09be\u09b8 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c"
+    ],
+    "name:bre_x_preferred":[
+        "Inizi Markiz"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0438\u0437\u043a\u0438 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "illes Marqueses"
+    ],
+    "name:ceb_x_preferred":[
+        "Marquesas Islands"
+    ],
+    "name:ces_x_preferred":[
+        "Mark\u00e9zy"
+    ],
+    "name:cym_x_preferred":[
+        "Ynysoedd Marquesas"
+    ],
+    "name:dan_x_preferred":[
+        "Marquesas\u00f8erne"
+    ],
+    "name:deu_x_preferred":[
+        "Marquesas"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ae\u03c3\u03bf\u03b9 \u039c\u03b1\u03c1\u03ba\u03ad\u03b6\u03b1\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Marquesas Islands"
+    ],
+    "name:epo_x_preferred":[
+        "Markizinsuloj"
+    ],
+    "name:est_x_preferred":[
+        "Markiisaared"
+    ],
+    "name:eus_x_preferred":[
+        "Markesak"
+    ],
+    "name:fao_x_preferred":[
+        "Marquesasoyggjar"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u0627\u06cc\u0631 \u0645\u0627\u0631\u06a9\u06cc\u0632"
+    ],
+    "name:fin_x_preferred":[
+        "Marquesassaaret"
     ],
     "name:fra_x_preferred":[
         "Marquises"
     ],
+    "name:fra_x_variant":[
+        "\u00eeles Marquises"
+    ],
+    "name:gla_x_preferred":[
+        "Na Marquesas"
+    ],
+    "name:gle_x_preferred":[
+        "Na hOile\u00e1in Mharcasacha"
+    ],
+    "name:glg_x_preferred":[
+        "Illas Marquesas"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0abe\u0ab0\u0acd\u0a95\u0acd\u0ab5\u0ac7\u0ab8\u0abe\u0ab8 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    ],
+    "name:haw_x_preferred":[
+        "Nu\u02bbuhiwa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9 \u05de\u05e8\u05e7\u05d9\u05d6"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0930\u094d\u0915\u094d\u0935\u0947\u0938\u0938 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939"
+    ],
+    "name:hrv_x_preferred":[
+        "Marki\u017eansko oto\u010dje"
+    ],
+    "name:hun_x_preferred":[
+        "Marquises-szigetek"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0580\u056f\u056b\u0566\u0575\u0561\u0576 \u056f\u0572\u0566\u056b\u0576\u0565\u0580"
+    ],
+    "name:ind_x_preferred":[
+        "Kepulauan Marquesas"
+    ],
+    "name:ita_x_preferred":[
+        "Isole Marchesi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30ad\u30fc\u30ba\u8af8\u5cf6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cbe\u0cb0\u0ccd\u0c95\u0ccd\u0cb5\u0cb8\u0cbe\u0cb8\u0ccd \u0ca6\u0ccd\u0cb5\u0cc0\u0caa\u0c97\u0cb3\u0cc1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e0\u10d9\u10d8\u10d6\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8"
+    ],
+    "name:kir_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0438\u0437 \u0430\u0440\u0430\u043b\u0434\u0430\u0440\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub974\ud0a4\uc988 \uc81c\ub3c4"
+    ],
+    "name:lat_x_preferred":[
+        "Insulae Marchionis"
+    ],
+    "name:lav_x_preferred":[
+        "Mar\u0137\u012bza salas"
+    ],
+    "name:lit_x_preferred":[
+        "Markiz\u0173 salos"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u093e\u0930\u094d\u0915\u094d\u0935\u0947\u0938\u093e\u0938 \u0906\u0908\u0938\u0932\u0901\u0921"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0438\u0441\u043a\u0438 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
+    "name:mri_x_preferred":[
+        "K\u0101hui o \u2018Enata"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0438\u0437 \u043e\u0448\u043c\u0430\u043e\u0442\u044b\u0432\u043b\u04d3"
+    ],
+    "name:msa_x_preferred":[
+        "Kepulauan Marquesas"
+    ],
+    "name:nan_x_preferred":[
+        "Marquises K\u00fbn-t\u00f3"
+    ],
+    "name:nld_x_preferred":[
+        "Marquesaseilanden"
+    ],
+    "name:nno_x_preferred":[
+        "Marquesas\u00f8yane"
+    ],
+    "name:nob_x_preferred":[
+        "Marquesas\u00f8yene"
+    ],
+    "name:oci_x_preferred":[
+        "Illas Marquesas"
+    ],
+    "name:pol_x_preferred":[
+        "Markizy"
+    ],
+    "name:por_x_preferred":[
+        "Arquip\u00e9lago das Marquesas"
+    ],
+    "name:ron_x_preferred":[
+        "Insulele Marchize"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0438\u0437\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Marquesas Islands"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0d9a\u0dca\u0dc0\u0dd9\u0dc3\u0dcf\u0dc3\u0dca \u0daf\u0dd4\u0db4\u0dad\u0dca"
+    ],
+    "name:smo_x_preferred":[
+        "Marquesas"
+    ],
+    "name:spa_x_preferred":[
+        "Islas Marquesas"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0432\u0430 \u041c\u0430\u0440\u043a\u0438\u0437"
+    ],
+    "name:swe_x_preferred":[
+        "Marquesas\u00f6arna"
+    ],
+    "name:tah_x_preferred":[
+        "\u2019Enana m\u0101"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc6\u0b9a\u0b9a\u0bc1\u0ba4\u0bcd \u0ba4\u0bc0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0438\u0437 \u0443\u0442\u0440\u0430\u0443\u043b\u0430\u0440\u044b"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c3e\u0c30\u0c4d\u0c15\u0c4d\u0c35\u0c46\u0c38\u0c3e\u0c38\u0c4d \u0c26\u0c40\u0c35\u0c41\u0c32\u0c41"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e21\u0e32\u0e23\u0e4c\u0e40\u0e04\u0e0b\u0e31\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Markiz Adalar\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0456\u0437\u044c\u043a\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
     "name:unk_x_variant":[
         "Marquezas Islands"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u0627\u0626\u0631 \u0645\u0627\u06a9\u06cc\u0626\u0633\u0627\u0633"
+    ],
+    "name:uzb_x_preferred":[
+        "Markiz orollari"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1ea7n \u0111\u1ea3o Marquises"
+    ],
+    "name:war_x_preferred":[
+        "Kapuropod-an Marquises"
+    ],
+    "name:yue_x_preferred":[
+        "\u4faf\u7235\u592b\u4eba\u7fa4\u5cf6"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u514b\u85a9\u65af\u7fa4\u5cf6"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PYF",
@@ -157,7 +379,7 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1553550488,
+    "wof:lastmodified":1563321812,
     "wof:name":"Marquesas Islands",
     "wof:parent_id":85632653,
     "wof:placetype":"region",

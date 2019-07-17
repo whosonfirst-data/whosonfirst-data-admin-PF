@@ -28,11 +28,32 @@
     "name:ara_x_preferred":[
         "\u062c\u0632\u0631 \u0648\u064a\u0646\u062f\u0648\u0627\u0631\u062f"
     ],
+    "name:ben_x_preferred":[
+        "\u0989\u0987\u09a8\u09cd\u09a1\u0993\u09af\u09bc\u09be\u09b0\u09cd\u09a1 \u0986\u0987\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09b8"
+    ],
     "name:cat_x_preferred":[
         "Illes del Vent"
     ],
+    "name:cat_x_variant":[
+        "illes del Vent"
+    ],
+    "name:ces_x_preferred":[
+        "N\u00e1v\u011btrn\u00e9 ostrovy"
+    ],
+    "name:dan_x_preferred":[
+        "Windward Islands"
+    ],
+    "name:deu_x_preferred":[
+        "Inseln \u00fcber dem Winde"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b7\u03c3\u03b9\u03ac \u0393\u03bf\u03c5\u03b9\u03bd\u03c4\u03b3\u03bf\u03c5\u03ac\u03c1\u03bd\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Windward Islands"
+    ],
+    "name:epo_x_preferred":[
+        "Alventaj Insuloj"
     ],
     "name:est_x_preferred":[
         "Tuulepealsed saared"
@@ -52,11 +73,23 @@
     "name:fra_x_preferred":[
         "\u00celes du Vent"
     ],
+    "name:fra_x_variant":[
+        "\u00eeles du Vent"
+    ],
     "name:glg_x_preferred":[
         "Illas do Vento"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0abf\u0aa8\u0acd\u0aa1\u0ab5\u0ab0\u0acd\u0aa1 \u0a86\u0a88\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093f\u0902\u0921\u0935\u0930\u094d\u0921 \u0926\u094d\u0935\u0940\u092a"
+    ],
     "name:hun_x_preferred":[
         "Sz\u00e9l fel\u0151li szigetek"
+    ],
+    "name:ind_x_preferred":[
+        "Kepulauan Windward"
     ],
     "name:ita_x_preferred":[
         "Isole del Vento"
@@ -64,11 +97,35 @@
     "name:jpn_x_preferred":[
         "\u30a6\u30a3\u30f3\u30c9\u30ef\u30fc\u30c9\u8af8\u5cf6"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cbf\u0c82\u0ca1\u0ccd\u0cb5\u0cb0\u0ccd\u0ca1\u0ccd \u0ca6\u0ccd\u0cb5\u0cc0\u0caa\u0c97\u0cb3\u0cc1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc708\ub4dc\uc6cc\ub4dc \uc81c\ub3c4"
+    ],
+    "name:lav_x_preferred":[
+        "Vindv\u0101rdas salas"
+    ],
     "name:lit_x_preferred":[
         "Prie\u0161v\u0117jin\u0117s salos"
     ],
+    "name:mar_x_preferred":[
+        "\u0935\u093f\u0902\u0921\u0935\u0930\u094d\u0921 \u0906\u0908\u0938\u0932\u0901\u0921"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0440\u0438\u0432\u0435\u0442\u0440\u0435\u043d\u0438 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Windward Islands"
+    ],
+    "name:nan_x_preferred":[
+        "Du Vent K\u00fbn-t\u00f3"
+    ],
     "name:nld_x_preferred":[
         "Bovenwindse Eilanden"
+    ],
+    "name:nob_x_preferred":[
+        "\u00celes du Vent"
     ],
     "name:nor_x_preferred":[
         "\u00celes du Vent"
@@ -79,17 +136,50 @@
     "name:por_x_preferred":[
         "Ilhas de Barlavento"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0432\u0435\u0442\u0440\u0435\u043d\u043d\u044b\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd2\u0db1\u0dca\u0da9\u0dca\u0dc0\u0ddd\u0dbb\u0dca\u0da9\u0dca \u0daf\u0dd4\u0db4\u0dad\u0dca"
+    ],
     "name:spa_x_preferred":[
         "Islas de Barlovento"
+    ],
+    "name:swe_x_preferred":[
+        "Windward Islands"
     ],
     "name:tah_x_preferred":[
         "Te fenua ni\u2019a mata\u2019i m\u0101"
     ],
+    "name:tah_x_variant":[
+        "Ni\u2019a mata\u2019i m\u0101"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd\u0bb5\u0bb0\u0bcd\u0b9f\u0bcd  \u0b87\u0bb8\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c3f\u0c02\u0c21\u0c4d\u0c35\u0c30\u0c4d\u0c21\u0c4d \u0c26\u0c40\u0c35\u0c41\u0c32\u0c41"
+    ],
     "name:tha_x_preferred":[
         "\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e27\u0e34\u0e19\u0e14\u0e4c\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e14"
     ],
+    "name:tur_x_preferred":[
+        "Windward Adalar\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432\u0438 \u0412\u0456\u043d\u0434\u0432\u043e\u0440\u0434"
+    ],
     "name:unk_x_variant":[
         "Tahiti"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0646\u062f\u0648\u0627\u0631\u062f \u0622\u0626\u06cc \u0644\u06cc\u0646\u0688"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1ea7n \u0111\u1ea3o Windward"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e0a\u98a8\u7fa4\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u5411\u98ce\u7fa4\u5c9b"
@@ -220,7 +310,7 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1553550488,
+    "wof:lastmodified":1563321810,
     "wof:name":"Windward Islands",
     "wof:parent_id":85632653,
     "wof:placetype":"region",

@@ -223,6 +223,9 @@
     "name:tah_x_preferred":[
         "\u0100rue"
     ],
+    "name:tah_x_variant":[
+        "'\u0100rue"
+    ],
     "name:tur_x_preferred":[
         "Arue"
     ],
@@ -249,6 +252,9 @@
     ],
     "name:wol_x_preferred":[
         "Arue"
+    ],
+    "name:zho_x_preferred":[
+        "\u96c5"
     ],
     "name:zul_x_preferred":[
         "Arue"
@@ -302,7 +308,7 @@
         }
     ],
     "wof:id":421181653,
-    "wof:lastmodified":1561778179,
+    "wof:lastmodified":1563321844,
     "wof:name":"Arue",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

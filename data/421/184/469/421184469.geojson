@@ -16,7 +16,13 @@
     "name:bul_x_preferred":[
         "\u0425\u0430\u0443\u0442\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Hauti"
+    ],
     "name:eng_x_preferred":[
+        "Hauti"
+    ],
+    "name:fra_x_preferred":[
         "Hauti"
     ],
     "name:spa_x_preferred":[
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":421184469,
-    "wof:lastmodified":1514495974,
+    "wof:lastmodified":1563321846,
     "wof:name":"Hauti",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

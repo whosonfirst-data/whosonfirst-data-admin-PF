@@ -18,7 +18,13 @@
     "name:bul_x_preferred":[
         "\u0422\u0435\u0430\u0432\u0430\u0440\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Teavaro"
+    ],
     "name:eng_x_preferred":[
+        "Teavaro"
+    ],
+    "name:fra_x_preferred":[
         "Teavaro"
     ],
     "name:lit_x_preferred":[
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":890437245,
-    "wof:lastmodified":1514495981,
+    "wof:lastmodified":1563321850,
     "wof:name":"Teavaro",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

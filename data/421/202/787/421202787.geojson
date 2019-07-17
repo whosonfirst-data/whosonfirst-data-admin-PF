@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0443\u0442\u0438\u0440\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Tautira"
+    ],
     "name:eng_x_preferred":[
         "Tautira"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":421202787,
-    "wof:lastmodified":1561778179,
+    "wof:lastmodified":1563321840,
     "wof:name":"Tautira",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

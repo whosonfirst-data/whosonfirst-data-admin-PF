@@ -25,8 +25,41 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u0631 \u0644\u064a\u0648\u0627\u0631\u062f"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09bf\u0993\u09af\u09bc\u09be\u09b0\u09cd\u09a1 \u09a6\u09cd\u09ac\u09c0\u09aa\u09cd\u09aa\u09c1\u099e\u09cd\u099c"
+    ],
+    "name:ces_x_preferred":[
+        "Z\u00e1v\u011btrn\u00e9 ostrovy"
+    ],
+    "name:dan_x_preferred":[
+        "Leeward Islands"
+    ],
+    "name:deu_x_preferred":[
+        "Leeward-Inseln"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b7\u03c3\u03b9\u03ac \u039b\u03af\u03b3\u03bf\u03c5\u03bf\u03c1\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Leeward Islands"
+    ],
+    "name:epo_x_preferred":[
+        "Deventaj Insuloj"
+    ],
+    "name:est_x_preferred":[
+        "Tuulealused saared"
+    ],
+    "name:eus_x_preferred":[
+        "Haizebearen Uharteak"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u0627\u06cc\u0631 \u0628\u0627\u062f\u067e\u0646\u0627\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Leewardsaaret"
     ],
     "name:fra_x_colloquial":[
         "Iles sous le Vent"
@@ -34,8 +67,101 @@
     "name:fra_x_preferred":[
         "\u00celes sous le Vent"
     ],
+    "name:fra_x_variant":[
+        "\u00eeles Sous-le-Vent"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0ac0\u0ab5\u0abe\u0ab0\u0acd\u0aa1 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0940\u0935\u0930\u094d\u0921 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939"
+    ],
+    "name:hun_x_preferred":[
+        "Sz\u00e9l alatti szigetek"
+    ],
+    "name:ind_x_preferred":[
+        "Kepulauan Leeward"
+    ],
+    "name:ita_x_preferred":[
+        "Isole Sottovento"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30fc\u30ef\u30fc\u30c9\u8af8\u5cf6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cc0\u0cb5\u0cb0\u0ccd\u0ca1\u0ccd \u0ca6\u0ccd\u0cb5\u0cc0\u0caa\u0c97\u0cb3\u0cc1"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\uc6cc\ub4dc \uc81c\ub3c4"
+    ],
+    "name:lav_x_preferred":[
+        "Aizv\u0113ja salas"
+    ],
+    "name:lit_x_preferred":[
+        "Pav\u0117jin\u0117s salos"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u0947\u0906\u0930\u094d\u0921 \u0906\u0908\u0938\u0932\u0901\u0921\u0938"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0417\u0430\u0432\u0435\u0442\u0440\u0435\u043d\u0438 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Leeward Islands"
+    ],
+    "name:nan_x_preferred":[
+        "Sous-le-Vent K\u00fbn-t\u00f3"
+    ],
+    "name:nld_x_preferred":[
+        "Benedenwindse Eilanden"
+    ],
+    "name:nob_x_preferred":[
+        "\u00celes Sous-le-Vent"
+    ],
+    "name:pol_x_preferred":[
+        "Wyspy Pod Wiatrem"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0432\u0435\u0442\u0440\u0435\u043d\u043d\u044b\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dd2\u0dc0\u0dcf\u0dbb\u0dca\u0da9\u0dca \u0daf\u0dd4\u0db4\u0dad\u0dca"
+    ],
+    "name:swe_x_preferred":[
+        "Leeward Islands"
+    ],
+    "name:tah_x_preferred":[
+        "Raro mata\u2019i m\u0101"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bc0\u0bb5\u0bcd\u0bb0\u0bcd\u0b9f\u0bc1  \u0b87\u0bb8\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c40\u0c35\u0c3e\u0c30\u0c4d\u0c21\u0c4d \u0c26\u0c40\u0c35\u0c41\u0c32\u0c41"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e25\u0e35\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e14"
+    ],
+    "name:tur_x_preferred":[
+        "Leeward Adalar\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0434\u0432\u0456\u0442\u0440\u044f\u043d\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
     "name:unk_x_variant":[
         "Sous de Vent"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u0627\u0626\u0631 \u0644\u06cc\u0648\u0627\u0631\u0688"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1ea7n \u0111\u1ea3o Leeward"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e0b\u98a8\u7fa4\u5cf6"
+    ],
+    "name:zho_x_preferred":[
+        "\u80cc\u98ce\u7fa4\u5c9b"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PYF",
@@ -160,7 +286,7 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1553550488,
+    "wof:lastmodified":1563321812,
     "wof:name":"Leeward Islands",
     "wof:parent_id":85632653,
     "wof:placetype":"region",
