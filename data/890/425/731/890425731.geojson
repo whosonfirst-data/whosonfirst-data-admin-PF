@@ -18,10 +18,19 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0442\u0430\u0443\u0440\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Mataura"
+    ],
     "name:eng_x_preferred":[
         "Mataura"
     ],
+    "name:fra_x_preferred":[
+        "Mataura"
+    ],
     "name:spa_x_preferred":[
+        "Mataura"
+    ],
+    "name:tah_x_preferred":[
         "Mataura"
     ],
     "qs:name":"Mataura",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":890425731,
-    "wof:lastmodified":1527727165,
+    "wof:lastmodified":1563321849,
     "wof:name":"Mataura",
     "wof:parent_id":85676741,
     "wof:placetype":"locality",

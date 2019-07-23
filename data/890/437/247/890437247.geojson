@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0443\u043d\u043e\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Taunoa"
+    ],
     "name:eng_x_preferred":[
         "Papeari"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890437247,
-    "wof:lastmodified":1561778180,
+    "wof:lastmodified":1563321850,
     "wof:name":"Taunoa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -21,6 +21,12 @@
     "name:bul_x_preferred":[
         "\u0410\u0442\u0443\u043e\u043d\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Atuona"
+    ],
+    "name:ceb_x_preferred":[
+        "Atuona"
+    ],
     "name:deu_x_preferred":[
         "Atuona"
     ],
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":890441237,
-    "wof:lastmodified":1561778180,
+    "wof:lastmodified":1563321849,
     "wof:name":"Atuona",
     "wof:parent_id":85676745,
     "wof:placetype":"locality",

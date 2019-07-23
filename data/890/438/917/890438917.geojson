@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Faaa"
     ],
+    "name:ceb_x_preferred":[
+        "Faaa"
+    ],
     "name:ces_x_preferred":[
         "Faaa"
     ],
@@ -305,7 +308,7 @@
         }
     ],
     "wof:id":890438917,
-    "wof:lastmodified":1561778180,
+    "wof:lastmodified":1563321853,
     "wof:name":"Faaa",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

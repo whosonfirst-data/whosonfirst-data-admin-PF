@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0443\u0435\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Pueu"
+    ],
     "name:eng_x_preferred":[
         "Pueu"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421181657,
-    "wof:lastmodified":1561778179,
+    "wof:lastmodified":1563321843,
     "wof:name":"Pueu",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

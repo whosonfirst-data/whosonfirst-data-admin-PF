@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0435\u0430\u0445\u0443\u043f\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Teahupoo"
+    ],
     "name:deu_x_preferred":[
         "Teahupoo"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421193185,
-    "wof:lastmodified":1561778179,
+    "wof:lastmodified":1563321838,
     "wof:name":"Teahupoo",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

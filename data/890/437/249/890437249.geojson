@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Punaauia"
     ],
+    "name:ceb_x_preferred":[
+        "Punaauia"
+    ],
     "name:ces_x_preferred":[
         "Punaauia"
     ],
@@ -292,7 +295,7 @@
         }
     ],
     "wof:id":890437249,
-    "wof:lastmodified":1561778180,
+    "wof:lastmodified":1563321851,
     "wof:name":"Punaauia",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

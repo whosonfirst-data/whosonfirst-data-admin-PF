@@ -18,7 +18,13 @@
     "name:bul_x_preferred":[
         "\u0410\u043d\u0430\u043f\u043e\u0442\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Anapoto"
+    ],
     "name:eng_x_preferred":[
+        "Anapoto"
+    ],
+    "name:fra_x_preferred":[
         "Anapoto"
     ],
     "name:spa_x_preferred":[
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":890422949,
-    "wof:lastmodified":1514495833,
+    "wof:lastmodified":1563321848,
     "wof:name":"Anapoto",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

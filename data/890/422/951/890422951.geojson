@@ -15,10 +15,19 @@
     "iso:country":"PF",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Amaru"
+    ],
     "name:eng_x_preferred":[
         "Amaru"
     ],
+    "name:fra_x_preferred":[
+        "Amaru"
+    ],
     "name:spa_x_preferred":[
+        "Amaru"
+    ],
+    "name:tah_x_preferred":[
         "Amaru"
     ],
     "qs:name":"Amaru",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":890422951,
-    "wof:lastmodified":1553816393,
+    "wof:lastmodified":1563321848,
     "wof:name":"Amaru",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

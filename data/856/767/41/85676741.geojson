@@ -25,17 +25,186 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Austraaleilande"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u0631 \u0623\u0648\u0633\u062a\u0631\u0627\u0644"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0441\u0442\u0440\u0430\u0432\u044b \u0422\u0443\u0431\u0443\u0430\u0456"
+    ],
+    "name:ben_x_preferred":[
+        "\u0985\u09b8\u09cd\u099f\u09cd\u09b0\u09be\u09b2 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0441\u043a\u0438 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "illes Australs"
+    ],
+    "name:ces_x_preferred":[
+        "Ji\u017en\u00ed souostrov\u00ed"
+    ],
+    "name:dan_x_preferred":[
+        "Austral\u00f8erne"
+    ],
+    "name:deu_x_preferred":[
+        "Austral-Inseln"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bf\u03c5\u03c3\u03c4\u03c1\u03ac\u03bb \u039d\u03ae\u03c3\u03bf\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Austral Islands"
+    ],
+    "name:epo_x_preferred":[
+        "A\u016dstralaj Insuloj"
+    ],
+    "name:eus_x_preferred":[
+        "Austral uharteak"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u0627\u06cc\u0631 \u0622\u0633\u062a\u0631\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Australsaaret"
     ],
     "name:fra_x_preferred":[
         "Australes"
     ],
     "name:fra_x_variant":[
-        "\u00celes Australes or Archipel des Australes"
+        "\u00celes Australes or Archipel des Australes",
+        "\u00celes Australes"
+    ],
+    "name:glg_x_preferred":[
+        "Illas Austrais"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a91\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0ac7\u0ab2 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9 \u05d0\u05d5\u05e1\u05d8\u05e8\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0911\u0938\u094d\u091f\u094d\u0930\u0932 \u0906\u0907\u0932\u0948\u0902\u0921\u094d\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Ausztr\u00e1l-szigetek"
+    ],
+    "name:ind_x_preferred":[
+        "Kepulauan Austral"
+    ],
+    "name:ita_x_preferred":[
+        "Isole Australi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30fc\u30b9\u30c8\u30e9\u30eb\u8af8\u5cf6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c86\u0cb8\u0ccd\u0c9f\u0ccd\u0cb0\u0cc7\u0cb2\u0cbf\u0caf\u0cbe\u0ca6 \u0ca6\u0ccd\u0cb5\u0cc0\u0caa\u0c97\u0cb3\u0cc1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10e3\u10d1\u10e3\u10d0\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\uc2a4\ud2b8\ub784 \uc81c\ub3c4"
+    ],
+    "name:lat_x_preferred":[
+        "Insulae Australes"
+    ],
+    "name:lav_x_preferred":[
+        "Tubuai salas"
+    ],
+    "name:lit_x_preferred":[
+        "Tubuajo salos"
+    ],
+    "name:mar_x_preferred":[
+        "\u0911\u0938\u094d\u091f\u094d\u0930\u0947\u0932\u093f\u092f\u093e \u0906\u0908\u0938\u0932\u0901\u0921\u0938"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0441\u043a\u0438 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0422\u0443\u0431\u0443\u0430\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Austral Islands"
+    ],
+    "name:nan_x_preferred":[
+        "Australes K\u00fbn-t\u00f3"
+    ],
+    "name:nld_x_preferred":[
+        "Australeilanden"
+    ],
+    "name:nob_x_preferred":[
+        "Austral\u00f8yene"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062c\u0632\u0627\u0626\u0631 \u0622\u0633\u0679\u0631\u0627\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Wyspy Tubuai"
+    ],
+    "name:por_x_preferred":[
+        "Arquip\u00e9lago das Austrais"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0431\u0443\u0430\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d94\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0daf\u0dd4\u0db4\u0dad\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Islas Australes"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0432\u0430 \u0410\u0443\u0441\u0442\u0440\u0430\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Austral\u00f6arna"
+    ],
+    "name:tah_x_preferred":[
+        "Tuha\u2019a pae m\u0101"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0bb8\u0bcd\u0b9f\u0bcd\u0bb0\u0bbe\u0bb2\u0bcd  \u0b87\u0bb8\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c06\u0c38\u0c4d\u0c1f\u0c4d\u0c30\u0c32\u0c4d \u0c26\u0c40\u0c35\u0c41\u0c32\u0c41"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e2d\u0e2a\u0e17\u0e23\u0e2d\u0e25 \u0e44\u0e2d\u0e0b\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Austral adalar\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432\u0438 \u0422\u0443\u0431\u0443\u0430\u0457"
     ],
     "name:unk_x_variant":[
         "Circonscription administrative des \u00celes Australes"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0633\u062a\u0631\u0627\u0644 \u0622\u0626\u06cc \u0644\u06cc\u0646\u0688"
+    ],
+    "name:uzb_x_preferred":[
+        "Tubuai"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1ea7n \u0111\u1ea3o Australes"
+    ],
+    "name:war_x_preferred":[
+        "Kapuropod-an Australes"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5357\u65b9\u7fa4\u5c9b"
+    ],
+    "name:yue_x_preferred":[
+        "\u5357\u65b9\u7fa4\u5cf6"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u65b9\u7fa4\u5c9b"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PYF",
@@ -160,7 +329,7 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1553550488,
+    "wof:lastmodified":1563321814,
     "wof:name":"Austral Islands",
     "wof:parent_id":85632653,
     "wof:placetype":"region",

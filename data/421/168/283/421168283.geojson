@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Uturoa"
     ],
+    "name:ceb_x_preferred":[
+        "Uturoa"
+    ],
     "name:ces_x_preferred":[
         "Uturoa"
     ],
@@ -253,6 +256,9 @@
     "name:wol_x_preferred":[
         "Uturoa"
     ],
+    "name:zho_x_preferred":[
+        "\u70cf\u5716\u7f85\u963f"
+    ],
     "name:zul_x_preferred":[
         "Uturoa"
     ],
@@ -304,7 +310,7 @@
         }
     ],
     "wof:id":421168283,
-    "wof:lastmodified":1561778178,
+    "wof:lastmodified":1563321837,
     "wof:name":"Uturoa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

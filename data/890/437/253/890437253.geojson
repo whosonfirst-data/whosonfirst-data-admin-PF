@@ -18,14 +18,29 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u043e\u043f\u0430\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Paopao"
+    ],
+    "name:deu_x_preferred":[
+        "Pao Pao"
+    ],
     "name:eng_x_preferred":[
+        "Paopao"
+    ],
+    "name:fra_x_preferred":[
         "Paopao"
     ],
     "name:pol_x_preferred":[
         "Paopao"
     ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043e\u043f\u0430\u043e"
+    ],
     "name:spa_x_preferred":[
         "Paopao"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce1\u6ce1\u6751"
     ],
     "qs:name":"Paopao",
     "qs:photos_9r":0,
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":890437253,
-    "wof:lastmodified":1527729753,
+    "wof:lastmodified":1563321852,
     "wof:name":"Paopao",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

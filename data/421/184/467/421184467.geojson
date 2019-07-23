@@ -16,13 +16,22 @@
     "name:cat_x_preferred":[
         "Avera"
     ],
+    "name:ceb_x_preferred":[
+        "Avera"
+    ],
     "name:deu_x_preferred":[
         "Avera"
     ],
     "name:eng_x_preferred":[
         "Avera"
     ],
+    "name:fra_x_preferred":[
+        "Avera"
+    ],
     "name:spa_x_preferred":[
+        "Avera"
+    ],
+    "name:tah_x_preferred":[
         "Avera"
     ],
     "qs:gn_country":"PF",
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":421184467,
-    "wof:lastmodified":1553816374,
+    "wof:lastmodified":1563321846,
     "wof:name":"Avera",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

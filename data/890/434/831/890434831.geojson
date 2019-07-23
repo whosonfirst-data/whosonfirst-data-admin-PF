@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u0438\u0440\u0443\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Rairua"
+    ],
     "name:eng_x_preferred":[
         "Rairua"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890434831,
-    "wof:lastmodified":1514495980,
+    "wof:lastmodified":1563321854,
     "wof:name":"Rairua",
     "wof:parent_id":85676741,
     "wof:placetype":"locality",

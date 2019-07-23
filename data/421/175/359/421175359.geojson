@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0430\u0438\u0442\u0430\u043f\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Vaitape"
+    ],
     "name:dan_x_preferred":[
         "Vaitape"
     ],
@@ -121,6 +124,9 @@
     "name:vie_x_preferred":[
         "Vaitape"
     ],
+    "name:zho_x_preferred":[
+        "\u74e6\u4f0a\u5854\u4f69"
+    ],
     "qs:gn_country":"PF",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":4033077,
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":421175359,
-    "wof:lastmodified":1561778179,
+    "wof:lastmodified":1563321844,
     "wof:name":"Vaitape",
     "wof:parent_id":85676731,
     "wof:placetype":"locality",

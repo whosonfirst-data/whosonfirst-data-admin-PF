@@ -13,8 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "tarifa"
+    ],
     "name:ces_x_preferred":[
         "J\u00edzdn\u00e9"
+    ],
+    "name:ces_x_variant":[
+        "j\u00edzdn\u00e9"
+    ],
+    "name:dan_x_preferred":[
+        "billet"
     ],
     "name:deu_x_preferred":[
         "Pauschaltarif"
@@ -22,11 +31,20 @@
     "name:eng_x_preferred":[
         "Fare"
     ],
+    "name:eng_x_variant":[
+        "fare"
+    ],
     "name:eus_x_preferred":[
         "Tarifa"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0627\u06cc\u0647 \u0633\u0641\u0631"
+    ],
     "name:fra_x_preferred":[
         "Far\u00e9"
+    ],
+    "name:gle_x_preferred":[
+        "t\u00e1ille"
     ],
     "name:jpn_x_preferred":[
         "\u904b\u8cc3"
@@ -37,11 +55,23 @@
     "name:por_x_preferred":[
         "Tarifa"
     ],
+    "name:por_x_variant":[
+        "tarifa"
+    ],
     "name:spa_x_preferred":[
         "Tarifa"
     ],
+    "name:spa_x_variant":[
+        "tarifa"
+    ],
     "name:unk_x_variant":[
         "Owharre"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5854\u4f0a\u74e6\u74b0\u7901"
+    ],
+    "name:zho_x_variant":[
+        "\u8eca\u8cbb"
     ],
     "qs:gn_country":"PF",
     "qs:gn_fcode":"PPL",
@@ -90,7 +120,7 @@
         }
     ],
     "wof:id":421197829,
-    "wof:lastmodified":1527716400,
+    "wof:lastmodified":1563321845,
     "wof:name":"Fare",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
