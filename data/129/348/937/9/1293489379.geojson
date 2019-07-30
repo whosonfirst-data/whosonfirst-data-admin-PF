@@ -26,6 +26,15 @@
     "iso:country":"PF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Avatoru"
+    ],
+    "name:fra_x_preferred":[
+        "Avatoru"
+    ],
+    "name:lit_x_preferred":[
+        "Avatoru"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632653,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1293489379,
-    "wof:lastmodified":1537570298,
+    "wof:lastmodified":1564169022,
     "wof:name":"Avatoru",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

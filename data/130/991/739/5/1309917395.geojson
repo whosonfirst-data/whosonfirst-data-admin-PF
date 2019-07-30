@@ -25,6 +25,12 @@
     "iso:country":"PF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tiputa"
+    ],
+    "name:lit_x_preferred":[
+        "Tiputa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632653,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1309917395,
-    "wof:lastmodified":1537570298,
+    "wof:lastmodified":1564169042,
     "wof:name":"Tiputa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -13,6 +13,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Hitiaa"
+    ],
+    "name:fra_x_preferred":[
+        "Hitia'a"
+    ],
+    "name:lit_x_preferred":[
+        "Hitiaa"
+    ],
+    "name:spa_x_preferred":[
+        "Hitiaa"
+    ],
     "name:unk_x_variant":[
         "Hitia"
     ],
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":421202795,
-    "wof:lastmodified":1509998521,
+    "wof:lastmodified":1564169043,
     "wof:name":"Hitiaa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

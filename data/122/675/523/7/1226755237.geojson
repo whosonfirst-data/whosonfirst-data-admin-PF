@@ -25,6 +25,12 @@
     "iso:country":"PF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Toini"
+    ],
+    "name:swe_x_preferred":[
+        "Toini"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1226755237,
-    "wof:lastmodified":1536702075,
+    "wof:lastmodified":1564169052,
     "wof:name":"Toini",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

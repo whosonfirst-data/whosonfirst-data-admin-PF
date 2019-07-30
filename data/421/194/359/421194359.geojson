@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Faanui"
+    ],
     "name:unk_x_variant":[
         "Fanui"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":421194359,
-    "wof:lastmodified":1506729022,
+    "wof:lastmodified":1564169043,
     "wof:name":"Faanui",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
