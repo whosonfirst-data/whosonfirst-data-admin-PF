@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "administrative subdivision"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LI"
+    ],
     "lbl:latitude":-16.828601,
     "lbl:longitude":-151.438825,
     "mps:latitude":-16.828601,
@@ -275,9 +278,6 @@
         }
     ],
     "wof:id":85676731,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "tah"
@@ -286,7 +286,7 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1563321812,
+    "wof:lastmodified":1565732410,
     "wof:name":"Leeward Islands",
     "wof:parent_id":85632653,
     "wof:placetype":"region",

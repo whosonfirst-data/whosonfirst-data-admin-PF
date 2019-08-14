@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "administrative subdivision"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TI"
+    ],
     "lbl:latitude":-27.58706,
     "lbl:longitude":-144.323789,
     "mps:latitude":-27.58706,
@@ -318,9 +321,6 @@
         }
     ],
     "wof:id":85676741,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "tah"
@@ -329,7 +329,7 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1563321814,
+    "wof:lastmodified":1565732410,
     "wof:name":"Austral Islands",
     "wof:parent_id":85632653,
     "wof:placetype":"region",

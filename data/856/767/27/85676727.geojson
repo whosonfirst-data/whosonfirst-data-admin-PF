@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "administrative subdivision"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WI"
+    ],
     "lbl:latitude":-17.628081,
     "lbl:longitude":-149.46157,
     "mps:latitude":-17.628081,
@@ -299,9 +302,6 @@
         }
     ],
     "wof:id":85676727,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "tah"
@@ -310,7 +310,7 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1563321810,
+    "wof:lastmodified":1565732409,
     "wof:name":"Windward Islands",
     "wof:parent_id":85632653,
     "wof:placetype":"region",

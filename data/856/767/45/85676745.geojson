@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "administrative subdivision"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MI"
+    ],
     "lbl:latitude":-9.750211,
     "lbl:longitude":-139.024882,
     "mps:latitude":-9.750211,
@@ -368,9 +371,6 @@
         }
     ],
     "wof:id":85676745,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "tah"
@@ -379,7 +379,7 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1563321812,
+    "wof:lastmodified":1565732410,
     "wof:name":"Marquesas Islands",
     "wof:parent_id":85632653,
     "wof:placetype":"region",

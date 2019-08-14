@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "administrative subdivision"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TG"
+    ],
     "lbl:latitude":-17.768937,
     "lbl:longitude":-140.73471,
     "mps:latitude":-17.768937,
@@ -253,9 +256,6 @@
         }
     ],
     "wof:id":85676737,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "fra",
         "tah"
@@ -264,7 +264,7 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1563321813,
+    "wof:lastmodified":1565732410,
     "wof:name":"Tuamotu-Gambier",
     "wof:parent_id":-1,
     "wof:placetype":"region",
