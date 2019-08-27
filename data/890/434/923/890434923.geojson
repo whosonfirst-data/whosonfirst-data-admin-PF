@@ -11,10 +11,14 @@
     "geom:longitude":-149.45,
     "gn:country":"PF",
     "gn:fcode":"PPL",
-    "gn:pop":462,
+    "gn:population":462,
     "iso:country":"PF",
+    "lbl:bbox":"-149.47,-23.42,-149.43,-23.38",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mahu"
     ],
@@ -30,7 +34,7 @@
     "name:swe_x_preferred":[
         "Mahu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mahua"
     ],
     "qs:name":"Mahu",
@@ -43,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4034303,
-        "qs:id":586007,
+        "qs_pg:id":586007,
         "wk:page":"Mahu"
     },
     "wof:country":"PF",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890434923,
-    "wof:lastmodified":1564169045,
+    "wof:lastmodified":1566677720,
     "wof:name":"Mahu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

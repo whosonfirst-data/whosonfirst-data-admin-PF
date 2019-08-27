@@ -10,8 +10,12 @@
     "geom:latitude":-22.46667,
     "geom:longitude":-151.33333,
     "iso:country":"PF",
+    "lbl:bbox":"-151.35333,-22.48667,-151.31333,-22.44667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0425\u0430\u0443\u0442\u0438"
@@ -28,7 +32,7 @@
     "name:spa_x_preferred":[
         "Hauti"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D'Hauti"
     ],
     "qs:gn_country":"PF",
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":4034603,
         "gp:id":28752893,
-        "qs:id":999132,
+        "qs_pg:id":999132,
         "wd:id":"Q31929681"
     },
     "wof:country":"PF",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421184469,
-    "wof:lastmodified":1563321846,
+    "wof:lastmodified":1566677718,
     "wof:name":"Hauti",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Tahiti",
     "iso:country":"PF",
+    "lbl:bbox":"-151.00276,-16.72493,-150.96276,-16.68493",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632653
@@ -34,7 +38,7 @@
         "gn:id":4033981
     },
     "wof:country":"PF",
-    "wof:geomhash":"8afa8c48ff3f052ae1c4936a90d8a141",
+    "wof:geomhash":"6c168cbb505e006304046508f0107947",
     "wof:hierarchy":[
         {
             "dependency_id":85632653,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209625387,
-    "wof:lastmodified":1536281372,
+    "wof:lastmodified":1566677707,
     "wof:name":"Pahiti",
     "wof:parent_id":85632653,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -150.98276,
-    -16.704929999999994,
+    -16.70492999999999,
     -150.98276,
-    -16.704929999999994
+    -16.70492999999999
 ],
   "geometry": {"coordinates":[-150.98276000000001,-16.70492999999999],"type":"Point"}
 }

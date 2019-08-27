@@ -10,8 +10,12 @@
     "geom:latitude":-17.50648,
     "geom:longitude":-149.48899,
     "iso:country":"PF",
+    "lbl:bbox":"-149.50899,-17.52648,-149.46899,-17.48648",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Mahina"
@@ -286,7 +290,7 @@
     "wof:concordances":{
         "gn:id":4034307,
         "gp:id":15021104,
-        "qs:id":49271,
+        "qs_pg:id":49271,
         "wd:id":"Q530692",
         "wk:page":"Mahina, French Polynesia"
     },
@@ -302,7 +306,7 @@
         }
     ],
     "wof:id":421202793,
-    "wof:lastmodified":1563321839,
+    "wof:lastmodified":1566677716,
     "wof:name":"Mahina",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-149.28333,
     "gn:country":"PF",
     "gn:fcode":"PPL",
-    "gn:pop":5186,
+    "gn:population":5186,
     "iso:country":"PF",
+    "lbl:bbox":"-149.30333,-17.77,-149.26333,-17.73",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Taravao"
     ],
@@ -267,7 +271,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4034745,
-        "qs:id":1047712,
+        "qs_pg:id":1047712,
         "wd:id":"Q3085353",
         "wk:page":"Afaahiti"
     },
@@ -285,7 +289,7 @@
         }
     ],
     "wof:id":890438921,
-    "wof:lastmodified":1561778180,
+    "wof:lastmodified":1566677719,
     "wof:name":"Afaahiti",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

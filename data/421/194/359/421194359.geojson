@@ -10,13 +10,17 @@
     "geom:latitude":-16.48333,
     "geom:longitude":-151.75,
     "iso:country":"PF",
+    "lbl:bbox":"-151.77,-16.50333,-151.73,-16.46333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fra_x_preferred":[
         "Faanui"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fanui"
     ],
     "qs:gn_country":"PF",
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":4034551,
         "gp:id":28752841,
-        "qs:id":1047709
+        "qs_pg:id":1047709
     },
     "wof:country":"PF",
     "wof:created":1459009803,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421194359,
-    "wof:lastmodified":1564169043,
+    "wof:lastmodified":1566677715,
     "wof:name":"Faanui",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

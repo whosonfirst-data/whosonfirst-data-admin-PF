@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Tahiti",
     "iso:country":"PF",
+    "lbl:bbox":"-149.91705,-17.51291,-149.87705,-17.47291",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632653
@@ -34,7 +38,7 @@
         "gn:id":11002923
     },
     "wof:country":"PF",
-    "wof:geomhash":"45cf553852a8dd215211c0f04e0f9525",
+    "wof:geomhash":"c080e62f3052d4d3f5ee564d1497ac41",
     "wof:hierarchy":[
         {
             "dependency_id":85632653,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209629003,
-    "wof:lastmodified":1536281254,
+    "wof:lastmodified":1566677707,
     "wof:name":"Tiahura",
     "wof:parent_id":85632653,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -149.89705,
-    -17.492910000000002,
+    -17.49291,
     -149.89705,
-    -17.492910000000002
+    -17.49291
 ],
   "geometry": {"coordinates":[-149.89705000000001,-17.49291],"type":"Point"}
 }

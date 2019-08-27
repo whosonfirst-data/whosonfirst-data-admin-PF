@@ -11,11 +11,15 @@
     "geom:longitude":-149.41667,
     "gn:country":"PF",
     "gn:fcode":"PPL",
-    "gn:pop":4609,
+    "gn:population":4609,
     "iso:country":"PF",
+    "lbl:bbox":"-149.43667,-17.78667,-149.39667,-17.74667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Mataiea"
     ],
     "qs:name":"Otutara",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":4034022,
         "gp:id":15021127,
-        "qs:id":1047702
+        "qs_pg:id":1047702
     },
     "wof:country":"PF",
     "wof:created":1469052130,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890436887,
-    "wof:lastmodified":1509998522,
+    "wof:lastmodified":1566677719,
     "wof:name":"Otutara",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

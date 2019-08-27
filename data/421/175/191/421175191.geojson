@@ -10,8 +10,12 @@
     "geom:latitude":-16.73333,
     "geom:longitude":-151.03333,
     "iso:country":"PF",
+    "lbl:bbox":"-151.05333,-16.75333,-151.01333,-16.71333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0424\u0438\u0442\u0438"
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":4034451,
         "gp:id":28752845,
-        "qs:id":358444,
+        "qs_pg:id":358444,
         "wd:id":"Q31929464"
     },
     "wof:country":"PF",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421175191,
-    "wof:lastmodified":1563321844,
+    "wof:lastmodified":1566677717,
     "wof:name":"Fitii",
     "wof:parent_id":85676731,
     "wof:placetype":"locality",

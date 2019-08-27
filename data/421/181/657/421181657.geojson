@@ -10,8 +10,12 @@
     "geom:latitude":-17.73333,
     "geom:longitude":-149.21667,
     "iso:country":"PF",
+    "lbl:bbox":"-149.23667,-17.75333,-149.19667,-17.71333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041f\u0443\u0435\u0443"
@@ -31,7 +35,7 @@
     "name:spa_x_preferred":[
         "Pueu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pucu"
     ],
     "qs:gn_country":"PF",
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":4033792,
         "gp:id":15021111,
-        "qs:id":498082,
+        "qs_pg:id":498082,
         "wd:id":"Q3410598",
         "wk:page":"Pueu"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421181657,
-    "wof:lastmodified":1563321843,
+    "wof:lastmodified":1566677717,
     "wof:name":"Pueu",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

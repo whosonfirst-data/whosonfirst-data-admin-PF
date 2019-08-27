@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Marquesas",
     "iso:country":"PF",
+    "lbl:bbox":"-140.11463,-8.93318,-140.07463,-8.89318",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632653,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209932525,
-    "wof:lastmodified":1536392101,
+    "wof:lastmodified":1566677708,
     "wof:name":"Vaitu",
     "wof:parent_id":85676745,
     "wof:placetype":"locality",

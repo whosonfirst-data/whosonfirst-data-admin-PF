@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-27.58706,
     "lbl:longitude":-144.323789,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-27.58706,
     "mps:longitude":-144.323789,
     "mz:hierarchy_label":1,
@@ -171,7 +172,7 @@
         "Tuha\u2019a pae m\u0101"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0bb8\u0bcd\u0b9f\u0bcd\u0bb0\u0bbe\u0bb2\u0bcd  \u0b87\u0bb8\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd"
+        "\u0b85\u0bb8\u0bcd\u0b9f\u0bcd\u0bb0\u0bbe\u0bb2\u0bcd \u0b87\u0bb8\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c06\u0c38\u0c4d\u0c1f\u0c4d\u0c30\u0c32\u0c4d \u0c26\u0c40\u0c35\u0c41\u0c32\u0c41"
@@ -185,7 +186,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0432\u0438 \u0422\u0443\u0431\u0443\u0430\u0457"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Circonscription administrative des \u00celes Australes"
     ],
     "name:urd_x_preferred":[
@@ -278,9 +279,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-22",
+    "src:population_date":"2012-08-22",
     "statoids:area_km":"142",
     "statoids:area_mi":"55",
     "statoids:as_of_date":"2012-08-22",
@@ -294,7 +295,6 @@
     "statoids:timezone":"-10",
     "statoids:type":"administrative subdivision",
     "wd:wordcount":620,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85632653,
@@ -306,7 +306,7 @@
         "gn:id":4034366,
         "gp:id":28743662,
         "hasc:id":"PF.TI",
-        "qs:id":961383,
+        "qs_pg:id":961383,
         "wd:id":"Q930426"
     },
     "wof:country":"PF",
@@ -329,11 +329,10 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1565732410,
+    "wof:lastmodified":1566677700,
     "wof:name":"Austral Islands",
     "wof:parent_id":85632653,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"administrative subdivision",
     "wof:population":6820,
     "wof:population_rank":5,

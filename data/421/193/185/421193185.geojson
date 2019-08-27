@@ -10,8 +10,12 @@
     "geom:latitude":-17.83333,
     "geom:longitude":-149.26667,
     "iso:country":"PF",
+    "lbl:bbox":"-149.28667,-17.85333,-149.24667,-17.81333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Teahupoo"
@@ -55,7 +59,7 @@
     "name:ukr_x_preferred":[
         "Teahupoo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Teahupu"
     ],
     "qs:gn_country":"PF",
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":4033543,
         "gp:id":15021112,
-        "qs:id":498071,
+        "qs_pg:id":498071,
         "wd:id":"Q1426729",
         "wk:page":"Teahupo'o"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421193185,
-    "wof:lastmodified":1563321838,
+    "wof:lastmodified":1566677715,
     "wof:name":"Teahupoo",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",
