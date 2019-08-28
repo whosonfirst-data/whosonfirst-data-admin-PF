@@ -10,8 +10,12 @@
     "geom:latitude":-17.6,
     "geom:longitude":-149.3,
     "iso:country":"PF",
+    "lbl:bbox":"-149.32,-17.62,-149.28,-17.58",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Hitiaa"
@@ -25,7 +29,7 @@
     "name:spa_x_preferred":[
         "Hitiaa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hitia"
     ],
     "qs:gn_country":"PF",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":4034402,
         "gp:id":15021059,
-        "qs:id":49272
+        "qs_pg:id":49272
     },
     "wof:country":"PF",
     "wof:created":1459010130,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421202795,
-    "wof:lastmodified":1564169043,
+    "wof:lastmodified":1566677716,
     "wof:name":"Hitiaa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

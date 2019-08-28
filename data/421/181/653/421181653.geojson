@@ -10,8 +10,12 @@
     "geom:latitude":-17.51667,
     "geom:longitude":-149.5,
     "iso:country":"PF",
+    "lbl:bbox":"-149.52,-17.53667,-149.48,-17.49667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Arue"
@@ -229,7 +233,7 @@
     "name:tur_x_preferred":[
         "Arue"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arve"
     ],
     "name:vec_x_preferred":[
@@ -290,10 +294,12 @@
     "wof:concordances":{
         "gn:id":3036632,
         "gp:id":576834,
-        "qs:id":497960,
         "qs_pg:id":322325,
         "wd:id":"Q716412",
         "wk:page":"Arue, French Polynesia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":497960
     },
     "wof:country":"PF",
     "wof:created":1459009302,
@@ -308,7 +314,7 @@
         }
     ],
     "wof:id":421181653,
-    "wof:lastmodified":1563321844,
+    "wof:lastmodified":1566677717,
     "wof:name":"Arue",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

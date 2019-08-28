@@ -10,8 +10,12 @@
     "geom:latitude":-16.7,
     "geom:longitude":-151.01667,
     "iso:country":"PF",
+    "lbl:bbox":"-151.03667,-16.72,-150.99667,-16.68",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "tarifa"
@@ -64,7 +68,7 @@
     "name:spa_x_variant":[
         "tarifa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Owharre"
     ],
     "name:zho_x_preferred":[
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":4034496,
         "gp:id":28752843,
-        "qs:id":151497,
+        "qs_pg:id":151497,
         "wd:id":"Q1142227"
     },
     "wof:country":"PF",
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":421197829,
-    "wof:lastmodified":1563321845,
+    "wof:lastmodified":1566677718,
     "wof:name":"Fare",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

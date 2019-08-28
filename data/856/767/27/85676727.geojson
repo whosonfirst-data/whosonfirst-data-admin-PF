@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-17.628081,
     "lbl:longitude":-149.46157,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-17.628081,
     "mps:longitude":-149.46157,
     "mz:hierarchy_label":1,
@@ -158,7 +159,7 @@
         "Ni\u2019a mata\u2019i m\u0101"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd\u0bb5\u0bb0\u0bcd\u0b9f\u0bcd  \u0b87\u0bb8\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd"
+        "\u0bb5\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd\u0bb5\u0bb0\u0bcd\u0b9f\u0bcd \u0b87\u0bb8\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c3f\u0c02\u0c21\u0c4d\u0c35\u0c30\u0c4d\u0c21\u0c4d \u0c26\u0c40\u0c35\u0c41\u0c32\u0c41"
@@ -172,7 +173,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0432\u0438 \u0412\u0456\u043d\u0434\u0432\u043e\u0440\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tahiti"
     ],
     "name:urd_x_preferred":[
@@ -259,9 +260,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-22",
+    "src:population_date":"2012-08-22",
     "statoids:area_km":"1,196",
     "statoids:area_mi":"462",
     "statoids:as_of_date":"2012-08-22",
@@ -286,7 +287,7 @@
         "gn:id":4034365,
         "gp:id":24549698,
         "hasc:id":"PF.WI",
-        "qs:id":1287878,
+        "qs_pg:id":1287878,
         "wd:id":"Q140298",
         "wk:page":"Windward Islands (Society Islands)"
     },
@@ -310,11 +311,10 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1565732409,
+    "wof:lastmodified":1566677700,
     "wof:name":"Windward Islands",
     "wof:parent_id":85632653,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"administrative subdivision",
     "wof:population":200714,
     "wof:population_rank":10,

@@ -10,8 +10,12 @@
     "geom:latitude":-22.45133,
     "geom:longitude":-151.34191,
     "iso:country":"PF",
+    "lbl:bbox":"-151.36191,-22.47133,-151.32191,-22.43133",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"PF",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":4034188,
         "gp:id":28752895,
-        "qs:id":11373
+        "qs_pg:id":11373
     },
     "wof:country":"PF",
     "wof:created":1459009535,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421188133,
-    "wof:lastmodified":1509998522,
+    "wof:lastmodified":1566677717,
     "wof:name":"Moerai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

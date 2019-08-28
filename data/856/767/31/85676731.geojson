@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-16.828601,
     "lbl:longitude":-151.438825,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-16.828601,
     "mps:longitude":-151.438825,
     "mz:hierarchy_label":1,
@@ -137,7 +138,7 @@
         "Raro mata\u2019i m\u0101"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bc0\u0bb5\u0bcd\u0bb0\u0bcd\u0b9f\u0bc1  \u0b87\u0bb8\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd"
+        "\u0bb2\u0bc0\u0bb5\u0bcd\u0bb0\u0bcd\u0b9f\u0bc1 \u0b87\u0bb8\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c40\u0c35\u0c3e\u0c30\u0c4d\u0c21\u0c4d \u0c26\u0c40\u0c35\u0c41\u0c32\u0c41"
@@ -151,7 +152,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0434\u0432\u0456\u0442\u0440\u044f\u043d\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sous de Vent"
     ],
     "name:urd_x_preferred":[
@@ -235,9 +236,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-22",
+    "src:population_date":"2012-08-22",
     "statoids:area_km":"430",
     "statoids:area_mi":"166",
     "statoids:as_of_date":"2012-08-22",
@@ -262,7 +263,7 @@
         "gn:id":4034364,
         "gp:id":24549699,
         "hasc:id":"PF.LI",
-        "qs:id":1287879,
+        "qs_pg:id":1287879,
         "wd:id":"Q1999082",
         "wk:page":"Leeward Islands (Society Islands)"
     },
@@ -286,11 +287,10 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1565732410,
+    "wof:lastmodified":1566677700,
     "wof:name":"Leeward Islands",
     "wof:parent_id":85632653,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"administrative subdivision",
     "wof:population":34581,
     "wof:population_rank":7,

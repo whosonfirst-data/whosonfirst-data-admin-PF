@@ -11,10 +11,14 @@
     "geom:longitude":-152.80474,
     "gn:country":"PF",
     "gn:fcode":"PPL",
-    "gn:pop":291,
+    "gn:population":291,
     "iso:country":"PF",
+    "lbl:bbox":"-152.82474,-22.68085,-152.78474,-22.64085",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Motu Ura",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":4034164,
         "gp:id":28752896,
-        "qs:id":97097
+        "qs_pg:id":97097
     },
     "wof:country":"PF",
     "wof:created":1469051813,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890429401,
-    "wof:lastmodified":1509998519,
+    "wof:lastmodified":1566677720,
     "wof:name":"Motu Ura",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

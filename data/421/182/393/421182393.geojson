@@ -10,8 +10,12 @@
     "geom:latitude":-16.78333,
     "geom:longitude":-151.5,
     "iso:country":"PF",
+    "lbl:bbox":"-151.52,-16.80333,-151.48,-16.76333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0422\u0435\u0432\u0430\u0438\u0442\u043e\u0430"
@@ -31,7 +35,7 @@
     "name:spa_x_preferred":[
         "Tevaitoa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Te Avi Toa"
     ],
     "qs:gn_country":"PF",
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":4033375,
         "gp:id":28752860,
-        "qs:id":959437,
+        "qs_pg:id":959437,
         "wd:id":"Q31932160"
     },
     "wof:country":"PF",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421182393,
-    "wof:lastmodified":1563321846,
+    "wof:lastmodified":1566677718,
     "wof:name":"Tevaitoa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

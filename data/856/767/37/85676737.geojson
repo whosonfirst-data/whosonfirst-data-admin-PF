@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-17.768937,
     "lbl:longitude":-140.73471,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-17.768937,
     "mps:longitude":-140.73471,
     "mz:hierarchy_label":1,
@@ -135,7 +136,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0432\u0438 \u0422\u0443\u0430\u043c\u043e\u0442\u0443-\u0413\u0430\u043c\u0431'\u0454"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00celes Tuamotu et Gambier"
     ],
     "name:urd_x_preferred":[
@@ -216,9 +217,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-22",
+    "src:population_date":"2012-08-22",
     "statoids:area_km":"877",
     "statoids:area_mi":"339",
     "statoids:as_of_date":"2012-08-22",
@@ -232,7 +233,6 @@
     "statoids:timezone":"-10",
     "statoids:type":"administrative subdivision",
     "wd:wordcount":350,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         136253037
     ],
@@ -242,7 +242,7 @@
         "gn:id":4030621,
         "gp:id":24549702,
         "hasc:id":"PF.TG",
-        "qs:id":1263430,
+        "qs_pg:id":1263430,
         "wd:id":"Q3773321"
     },
     "wof:country":"PF",
@@ -264,11 +264,10 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1565732410,
+    "wof:lastmodified":1566677700,
     "wof:name":"Tuamotu-Gambier",
     "wof:parent_id":-1,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"administrative subdivision",
     "wof:population":16831,
     "wof:population_rank":6,

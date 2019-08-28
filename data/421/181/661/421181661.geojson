@@ -10,8 +10,12 @@
     "geom:latitude":-17.68333,
     "geom:longitude":-149.58333,
     "iso:country":"PF",
+    "lbl:bbox":"-149.60333,-17.70333,-149.56333,-17.66333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Paea"
@@ -229,7 +233,7 @@
     "name:tur_x_preferred":[
         "Paea"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Paca"
     ],
     "name:vec_x_preferred":[
@@ -284,7 +288,7 @@
     "wof:concordances":{
         "gn:id":4034005,
         "gp:id":15021115,
-        "qs:id":498084,
+        "qs_pg:id":498084,
         "wd:id":"Q1788505",
         "wk:page":"Paea"
     },
@@ -300,7 +304,7 @@
         }
     ],
     "wof:id":421181661,
-    "wof:lastmodified":1561778179,
+    "wof:lastmodified":1566677717,
     "wof:name":"Paea",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",
