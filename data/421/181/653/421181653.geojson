@@ -303,6 +303,9 @@
     },
     "wof:country":"PF",
     "wof:created":1459009302,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"37422f1d1c7602789fc00c0c70a0d07f",
     "wof:hierarchy":[
         {
@@ -314,7 +317,7 @@
         }
     ],
     "wof:id":421181653,
-    "wof:lastmodified":1566677717,
+    "wof:lastmodified":1582343575,
     "wof:name":"Arue",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",
