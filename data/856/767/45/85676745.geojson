@@ -9,7 +9,6 @@
     "geom:bbox":"-140.72777259,-10.5504696587,-138.620228645,-7.95012786311",
     "geom:latitude":-9.377793,
     "geom:longitude":-139.57327,
-    "gn:id":"",
     "iso:country":"PF",
     "label:eng_x_preferred_longname":[
         "Marquesas Islands Administrative Subdivision"
@@ -379,7 +378,7 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1566677700,
+    "wof:lastmodified":1603255911,
     "wof:name":"Marquesas Islands",
     "wof:parent_id":85632653,
     "wof:placetype":"region",

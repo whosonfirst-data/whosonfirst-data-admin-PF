@@ -9,7 +9,6 @@
     "geom:bbox":"-148.690663215,-23.1387671848,-134.942982551,-14.1649716125",
     "geom:latitude":-17.516904,
     "geom:longitude":-142.316707,
-    "gn:id":"",
     "iso:country":"PF",
     "label:eng_x_preferred_longname":[
         "Tuamotu-Gambier Administrative Subdivision"
@@ -264,7 +263,7 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1566677700,
+    "wof:lastmodified":1603255911,
     "wof:name":"Tuamotu-Gambier",
     "wof:parent_id":-1,
     "wof:placetype":"region",

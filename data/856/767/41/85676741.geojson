@@ -9,7 +9,6 @@
     "geom:bbox":"-154.702666796,-27.6412085914,-144.283762174,-21.7977027317",
     "geom:latitude":-24.83755,
     "geom:longitude":-147.740824,
-    "gn:id":"",
     "iso:country":"PF",
     "label:eng_x_preferred_longname":[
         "Austral Islands Administrative Subdivision"
@@ -329,7 +328,7 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1566677700,
+    "wof:lastmodified":1603255911,
     "wof:name":"Austral Islands",
     "wof:parent_id":85632653,
     "wof:placetype":"region",
