@@ -27,13 +27,32 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0634\u0627\u0631\u0648\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Tetiaroa"
+    ],
+    "name:eng_x_preferred":[
+        "Tetiaroa"
+    ],
+    "name:eng_x_variant":[
+        "Titiaroa"
+    ],
+    "name:fra_x_preferred":[
+        "Tetiaroa"
+    ],
+    "name:spa_x_preferred":[
+        "Tetiaroa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":8554436
+        "gn:id":8554436,
+        "wd:id":"Q1135240"
     },
     "wof:country":"PF",
     "wof:geomhash":"a5b111fcc380a7e674334e194be98aa0",
@@ -46,8 +65,8 @@
         }
     ],
     "wof:id":1344171967,
-    "wof:lastmodified":1566677699,
-    "wof:name":"Titiaroa",
+    "wof:lastmodified":1662673265,
+    "wof:name":"Tetiaroa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pf",
