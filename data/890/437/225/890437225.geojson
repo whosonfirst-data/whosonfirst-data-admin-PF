@@ -34,6 +34,12 @@
     "name:fra_x_preferred":[
         "Rikitea"
     ],
+    "name:hun_x_preferred":[
+        "Rikitea"
+    ],
+    "name:ind_x_preferred":[
+        "Rikitea"
+    ],
     "name:jpn_x_preferred":[
         "\u30ea\u30ad\u30c6\u30a2"
     ],
@@ -44,6 +50,9 @@
         "Rikitea"
     ],
     "name:nob_x_preferred":[
+        "Rikitea"
+    ],
+    "name:pol_x_preferred":[
         "Rikitea"
     ],
     "name:por_x_preferred":[
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":890437225,
-    "wof:lastmodified":1566677719,
+    "wof:lastmodified":1690850820,
     "wof:name":"Rikitea",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

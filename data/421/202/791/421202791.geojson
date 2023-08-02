@@ -20,6 +20,9 @@
     "name:afr_x_preferred":[
         "Pirae"
     ],
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631\u0627\u064a"
+    ],
     "name:arg_x_preferred":[
         "Pirae"
     ],
@@ -36,6 +39,9 @@
         "Pirae"
     ],
     "name:cat_x_preferred":[
+        "Pirae"
+    ],
+    "name:ceb_x_preferred":[
         "Pirae"
     ],
     "name:ces_x_preferred":[
@@ -313,7 +319,7 @@
         }
     ],
     "wof:id":421202791,
-    "wof:lastmodified":1566677716,
+    "wof:lastmodified":1690850815,
     "wof:name":"Pirae",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

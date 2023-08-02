@@ -20,11 +20,20 @@
     "name:afr_x_preferred":[
         "Teahupoo"
     ],
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0647\u0648\u0628\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0435\u0430\u0445\u0443\u043f\u043e"
     ],
+    "name:cat_x_preferred":[
+        "Teahupo'o"
+    ],
     "name:ceb_x_preferred":[
         "Teahupoo"
+    ],
+    "name:ces_x_preferred":[
+        "Teahupo'o"
     ],
     "name:deu_x_preferred":[
         "Teahupoo"
@@ -34,6 +43,15 @@
     ],
     "name:fra_x_preferred":[
         "Teahupoo"
+    ],
+    "name:gle_x_preferred":[
+        "Teahupoo"
+    ],
+    "name:ita_x_preferred":[
+        "Teahupo'o"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30a2\u30d5\u30dd\u30aa"
     ],
     "name:lit_x_preferred":[
         "Teahupoo"
@@ -53,6 +71,9 @@
     "name:rus_x_preferred":[
         "\u0422\u0435\u0430\u0445\u0443\u043f\u043e\u043e"
     ],
+    "name:slk_x_preferred":[
+        "Teahupo'o"
+    ],
     "name:spa_x_preferred":[
         "Teahupo'o"
     ],
@@ -61,6 +82,9 @@
     ],
     "name:und_x_variant":[
         "Teahupu"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u4e4e\u666e\u6b50"
     ],
     "qs:gn_country":"PF",
     "qs:gn_fcode":"PPL",
@@ -106,7 +130,7 @@
         }
     ],
     "wof:id":421193185,
-    "wof:lastmodified":1566677715,
+    "wof:lastmodified":1690850814,
     "wof:name":"Teahupoo",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

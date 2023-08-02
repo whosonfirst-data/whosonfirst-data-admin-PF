@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Pueu"
     ],
+    "name:deu_x_preferred":[
+        "P\u016beu"
+    ],
     "name:eng_x_preferred":[
         "Pueu"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421181657,
-    "wof:lastmodified":1566677717,
+    "wof:lastmodified":1690850817,
     "wof:name":"Pueu",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

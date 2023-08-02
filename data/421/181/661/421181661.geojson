@@ -122,6 +122,9 @@
     "name:jam_x_preferred":[
         "Paea"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30a8\u30a2"
+    ],
     "name:kab_x_preferred":[
         "Paea"
     ],
@@ -304,7 +307,7 @@
         }
     ],
     "wof:id":421181661,
-    "wof:lastmodified":1566677717,
+    "wof:lastmodified":1690850816,
     "wof:name":"Paea",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

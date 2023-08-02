@@ -32,6 +32,9 @@
     "name:bar_x_preferred":[
         "Arue"
     ],
+    "name:bre_x_preferred":[
+        "Arue"
+    ],
     "name:cat_x_preferred":[
         "Arue"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:fao_x_preferred":[
         "Arue"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0648"
     ],
     "name:fin_x_preferred":[
         "Arue"
@@ -118,6 +124,9 @@
     ],
     "name:jam_x_preferred":[
         "Arue"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30a8"
     ],
     "name:kab_x_preferred":[
         "Arue"
@@ -233,6 +242,9 @@
     "name:tur_x_preferred":[
         "Arue"
     ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0443\u0435"
+    ],
     "name:und_x_variant":[
         "Arve"
     ],
@@ -317,7 +329,7 @@
         }
     ],
     "wof:id":421181653,
-    "wof:lastmodified":1582343575,
+    "wof:lastmodified":1690850817,
     "wof:name":"Arue",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

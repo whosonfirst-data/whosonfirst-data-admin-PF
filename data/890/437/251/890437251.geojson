@@ -124,6 +124,9 @@
     "name:jam_x_preferred":[
         "Papara"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30d1\u30e9"
+    ],
     "name:kab_x_preferred":[
         "Papara"
     ],
@@ -283,7 +286,7 @@
         }
     ],
     "wof:id":890437251,
-    "wof:lastmodified":1566677719,
+    "wof:lastmodified":1690850820,
     "wof:name":"Papao",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

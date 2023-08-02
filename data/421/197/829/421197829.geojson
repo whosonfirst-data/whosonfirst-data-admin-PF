@@ -32,6 +32,9 @@
     "name:deu_x_preferred":[
         "Pauschaltarif"
     ],
+    "name:deu_x_variant":[
+        "Tarifsystem"
+    ],
     "name:eng_x_preferred":[
         "Fare"
     ],
@@ -50,11 +53,20 @@
     "name:gle_x_preferred":[
         "t\u00e1ille"
     ],
+    "name:ita_x_preferred":[
+        "tariffa"
+    ],
     "name:jpn_x_preferred":[
         "\u904b\u8cc3"
     ],
     "name:kor_x_preferred":[
         "\uc6b4\uc784"
+    ],
+    "name:ltz_x_preferred":[
+        "Tarifsystem"
+    ],
+    "name:nld_x_preferred":[
+        "tarief"
     ],
     "name:por_x_preferred":[
         "Tarifa"
@@ -62,11 +74,17 @@
     "name:por_x_variant":[
         "tarifa"
     ],
+    "name:slv_x_preferred":[
+        "voznina"
+    ],
     "name:spa_x_preferred":[
         "Tarifa"
     ],
     "name:spa_x_variant":[
         "tarifa"
+    ],
+    "name:swa_x_preferred":[
+        "Nauli"
     ],
     "name:und_x_variant":[
         "Owharre"
@@ -124,7 +142,7 @@
         }
     ],
     "wof:id":421197829,
-    "wof:lastmodified":1566677718,
+    "wof:lastmodified":1690850818,
     "wof:name":"Fare",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

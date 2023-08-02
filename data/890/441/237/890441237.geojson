@@ -52,6 +52,9 @@
     "name:hye_x_preferred":[
         "\u0531\u057f\u0578\u0582\u0578\u0576\u0561"
     ],
+    "name:ita_x_preferred":[
+        "Atuona"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30c4\u30aa\u30ca"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:tah_x_preferred":[
         "Atuona"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u0442\u0443\u043e\u043d\u0430"
     ],
     "name:und_x_variant":[
         "Atuana"
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":890441237,
-    "wof:lastmodified":1566677718,
+    "wof:lastmodified":1690850819,
     "wof:name":"Atuona",
     "wof:parent_id":85676745,
     "wof:placetype":"locality",

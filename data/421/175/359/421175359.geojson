@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u064a\u062a\u0627\u0628\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0627\u064a\u062a\u0627\u0628\u0649"
+    ],
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u099f\u09be\u09aa\u09c7"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:ceb_x_preferred":[
         "Vaitape"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0430\u0439\u0442\u0430\u043f\u0435"
     ],
     "name:dan_x_preferred":[
         "Vaitape"
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":421175359,
-    "wof:lastmodified":1566677717,
+    "wof:lastmodified":1690850817,
     "wof:name":"Vaitape",
     "wof:parent_id":85676731,
     "wof:placetype":"locality",
