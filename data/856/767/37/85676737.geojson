@@ -41,11 +41,20 @@
     "name:ceb_x_preferred":[
         "\u00celes Tuamotu-Gambier"
     ],
+    "name:ceb_x_variant":[
+        "Iles Tuamotu-Gambier"
+    ],
     "name:dan_x_preferred":[
         "\u00celes Tuamotu-Gambier"
     ],
+    "name:dan_x_variant":[
+        "Iles Tuamotu-Gambier"
+    ],
     "name:deu_x_preferred":[
         "\u00celes Tuamotu-Gambier"
+    ],
+    "name:deu_x_variant":[
+        "Iles Tuamotu-Gambier"
     ],
     "name:ell_x_preferred":[
         "\u038a\u03bb\u03b5\u03c2 \u03a4\u03bf\u03c5\u03b1\u03bc\u03cc\u03c4\u03bf\u03c5-\u0393\u03ba\u03ac\u03bc\u03c0\u03b9\u03b5\u03c1"
@@ -54,10 +63,14 @@
         "Tuamotu-Gambier"
     ],
     "name:eng_x_variant":[
-        "\u00celes Tuamotu-Gambier"
+        "\u00celes Tuamotu-Gambier",
+        "Iles Tuamotu-Gambier"
     ],
     "name:fin_x_preferred":[
         "\u00celes Tuamotu-Gambier"
+    ],
+    "name:fin_x_variant":[
+        "Iles Tuamotu-Gambier"
     ],
     "name:fra_x_preferred":[
         "Archipels des Tuamotu et des Gambier"
@@ -65,7 +78,8 @@
     "name:fra_x_variant":[
         "Archipel des Tuamotu-Gambier",
         "Tuamotu-Gambier",
-        "\u00celes Tuamotu-Gambier"
+        "\u00celes Tuamotu-Gambier",
+        "\u00eeles Tuamotu-Gambier"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac7\u0ab8 \u0aa4\u0ac1\u0a86\u0aae\u0acb\u0a9f\u0acb-\u0a97\u0ac5\u0aae\u0acd\u0aac\u0abf\u0a85\u0ab0"
@@ -78,6 +92,9 @@
     ],
     "name:ind_x_preferred":[
         "\u00celes Tuamotu-Gambier"
+    ],
+    "name:ind_x_variant":[
+        "Iles Tuamotu-Gambier"
     ],
     "name:ita_x_preferred":[
         "Isole Tuamotu-Gambier"
@@ -111,6 +128,9 @@
     ],
     "name:pol_x_preferred":[
         "\u00celes Tuamotu-Gambier"
+    ],
+    "name:pol_x_variant":[
+        "Iles Tuamotu-Gambier"
     ],
     "name:rus_x_preferred":[
         "\u0418\u043b\u044c \u0422\u044e\u0430\u043c\u043e\u0442\u044e-\u0413\u0430\u043c\u0431\u044c\u0435"
@@ -273,7 +293,7 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1636500407,
+    "wof:lastmodified":1690850814,
     "wof:name":"Tuamotu-Gambier",
     "wof:parent_id":-1,
     "wof:placetype":"region",

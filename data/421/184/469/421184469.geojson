@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Hauti"
     ],
+    "name:ltz_x_preferred":[
+        "Hauti"
+    ],
     "name:spa_x_preferred":[
         "Hauti"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421184469,
-    "wof:lastmodified":1566677718,
+    "wof:lastmodified":1690850818,
     "wof:name":"Hauti",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

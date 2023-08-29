@@ -260,6 +260,9 @@
     "name:wol_x_preferred":[
         "Mahina"
     ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u5e0c\u7eb3"
+    ],
     "name:zul_x_preferred":[
         "Mahina"
     ],
@@ -306,7 +309,7 @@
         }
     ],
     "wof:id":421202793,
-    "wof:lastmodified":1566677716,
+    "wof:lastmodified":1690850815,
     "wof:name":"Mahina",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

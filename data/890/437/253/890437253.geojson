@@ -19,10 +19,28 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:bre_x_preferred":[
+        "Paopao"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0430\u043e\u043f\u0430\u043e"
     ],
+    "name:cat_x_preferred":[
+        "Paopao"
+    ],
     "name:ceb_x_preferred":[
+        "Paopao"
+    ],
+    "name:ces_x_preferred":[
+        "Paopao"
+    ],
+    "name:cos_x_preferred":[
+        "Paopao"
+    ],
+    "name:cym_x_preferred":[
+        "Paopao"
+    ],
+    "name:dan_x_preferred":[
         "Paopao"
     ],
     "name:deu_x_preferred":[
@@ -31,16 +49,85 @@
     "name:eng_x_preferred":[
         "Paopao"
     ],
+    "name:est_x_preferred":[
+        "Paopao"
+    ],
+    "name:fin_x_preferred":[
+        "Paopao"
+    ],
     "name:fra_x_preferred":[
+        "Paopao"
+    ],
+    "name:gle_x_preferred":[
+        "Paopao"
+    ],
+    "name:glg_x_preferred":[
+        "Paopao"
+    ],
+    "name:hrv_x_preferred":[
+        "Paopao"
+    ],
+    "name:hun_x_preferred":[
+        "Paopao"
+    ],
+    "name:ind_x_preferred":[
+        "Paopao"
+    ],
+    "name:ita_x_preferred":[
+        "Paopao"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30aa\u30d1\u30aa"
+    ],
+    "name:lav_x_preferred":[
+        "Paopao"
+    ],
+    "name:lit_x_preferred":[
+        "Paopao"
+    ],
+    "name:ltz_x_preferred":[
+        "Paopao"
+    ],
+    "name:nld_x_preferred":[
+        "Paopao"
+    ],
+    "name:nrm_x_preferred":[
+        "Paopao"
+    ],
+    "name:oci_x_preferred":[
         "Paopao"
     ],
     "name:pol_x_preferred":[
         "Paopao"
     ],
+    "name:por_x_preferred":[
+        "Paopao"
+    ],
+    "name:roh_x_preferred":[
+        "Paopao"
+    ],
+    "name:ron_x_preferred":[
+        "Paopao"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043e\u043f\u0430\u043e"
     ],
+    "name:slk_x_preferred":[
+        "Paopao"
+    ],
+    "name:slv_x_preferred":[
+        "Paopao"
+    ],
     "name:spa_x_preferred":[
+        "Paopao"
+    ],
+    "name:swe_x_preferred":[
+        "Paopao"
+    ],
+    "name:tah_x_preferred":[
+        "Paopao"
+    ],
+    "name:tur_x_preferred":[
         "Paopao"
     ],
     "name:zho_x_preferred":[
@@ -79,7 +166,7 @@
         }
     ],
     "wof:id":890437253,
-    "wof:lastmodified":1566677719,
+    "wof:lastmodified":1690850821,
     "wof:name":"Paopao",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

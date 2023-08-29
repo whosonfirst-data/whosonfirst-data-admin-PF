@@ -37,8 +37,14 @@
     "name:bre_x_preferred":[
         "Taravao"
     ],
+    "name:bul_x_preferred":[
+        "\u0410\u0444\u0430\u0445\u0438\u0442\u0438"
+    ],
     "name:cat_x_preferred":[
         "Taravao"
+    ],
+    "name:ceb_x_preferred":[
+        "Afaahiti"
     ],
     "name:ces_x_preferred":[
         "Taravao"
@@ -289,7 +295,7 @@
         }
     ],
     "wof:id":890438921,
-    "wof:lastmodified":1566677719,
+    "wof:lastmodified":1690850821,
     "wof:name":"Afaahiti",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

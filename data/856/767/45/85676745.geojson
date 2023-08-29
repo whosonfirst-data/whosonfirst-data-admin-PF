@@ -44,6 +44,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b0\u09cd\u0995\u09c7\u09b8\u09be\u09b8 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c"
     ],
+    "name:bos_x_preferred":[
+        "Markisko oto\u010dje"
+    ],
     "name:bre_x_preferred":[
         "Inizi Markiz"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:ces_x_preferred":[
         "Mark\u00e9zy"
+    ],
+    "name:chv_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0438\u0437 \u0443\u0442\u0440\u0430\u0432\u0115\u0441\u0435\u043c"
     ],
     "name:cym_x_preferred":[
         "Ynysoedd Marquesas"
@@ -98,6 +104,9 @@
     "name:fra_x_variant":[
         "\u00eeles Marquises"
     ],
+    "name:frr_x_preferred":[
+        "Marquesas-Eilunen"
+    ],
     "name:gla_x_preferred":[
         "Na Marquesas"
     ],
@@ -133,6 +142,9 @@
     ],
     "name:ita_x_preferred":[
         "Isole Marchesi"
+    ],
+    "name:ita_x_variant":[
+        "isole Marchesi"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30eb\u30ad\u30fc\u30ba\u8af8\u5cf6"
@@ -188,6 +200,9 @@
     "name:oci_x_preferred":[
         "Illas Marquesas"
     ],
+    "name:oci_x_variant":[
+        "illas Marquesas"
+    ],
     "name:pol_x_preferred":[
         "Markizy"
     ],
@@ -211,6 +226,12 @@
     ],
     "name:spa_x_preferred":[
         "Islas Marquesas"
+    ],
+    "name:spa_x_variant":[
+        "islas Marquesas"
+    ],
+    "name:srd_x_preferred":[
+        "\u00ccsulas Marchesas"
     ],
     "name:srp_x_preferred":[
         "\u041e\u0441\u0442\u0440\u0432\u0430 \u041c\u0430\u0440\u043a\u0438\u0437"
@@ -256,6 +277,9 @@
     ],
     "name:war_x_preferred":[
         "Kapuropod-an Marquises"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u514b\u8428\u65af\u7fa4\u5c9b"
     ],
     "name:yue_x_preferred":[
         "\u4faf\u7235\u592b\u4eba\u7fa4\u5cf6"
@@ -388,7 +412,7 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1636500406,
+    "wof:lastmodified":1690850813,
     "wof:name":"Marquesas Islands",
     "wof:parent_id":85632653,
     "wof:placetype":"region",

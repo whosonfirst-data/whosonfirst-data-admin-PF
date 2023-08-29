@@ -41,6 +41,9 @@
     "name:cat_x_variant":[
         "illes del Vent"
     ],
+    "name:ceb_x_preferred":[
+        "\u00celes du Vent"
+    ],
     "name:ces_x_preferred":[
         "N\u00e1v\u011btrn\u00e9 ostrovy"
     ],
@@ -134,6 +137,9 @@
     "name:nor_x_preferred":[
         "\u00celes du Vent"
     ],
+    "name:oci_x_preferred":[
+        "Illas del Vent"
+    ],
     "name:pol_x_preferred":[
         "Wyspy Na Wietrze"
     ],
@@ -160,6 +166,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bb5\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd\u0bb5\u0bb0\u0bcd\u0b9f\u0bcd \u0b87\u0bb8\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0bb5\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd\u0bb5\u0bb0\u0bcd\u0b9f\u0bcd  \u0b87\u0bb8\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c3f\u0c02\u0c21\u0c4d\u0c35\u0c30\u0c4d\u0c21\u0c4d \u0c26\u0c40\u0c35\u0c41\u0c32\u0c41"
@@ -320,7 +329,7 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1636500406,
+    "wof:lastmodified":1690850813,
     "wof:name":"Windward Islands",
     "wof:parent_id":85632653,
     "wof:placetype":"region",
