@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027688,
-    "geom:area_square_m":327850660.542161,
+    "geom:area_square_m":327851161.721454,
     "geom:bbox":"-154.536977,-16.902927,-150.978383,-15.789321",
     "geom:latitude":-16.742407,
     "geom:longitude":-151.468492,
@@ -282,8 +282,9 @@
         "wd:id":"Q1999082",
         "wk:page":"Leeward Islands (Society Islands)"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PF",
-    "wof:geomhash":"36ce431ac8483e78222c03c7b7ad6616",
+    "wof:geomhash":"fe9159b0bcadc637ecc14ce4039a8bba",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -302,7 +303,7 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1690850813,
+    "wof:lastmodified":1695884865,
     "wof:name":"Leeward Islands",
     "wof:parent_id":85632653,
     "wof:placetype":"region",

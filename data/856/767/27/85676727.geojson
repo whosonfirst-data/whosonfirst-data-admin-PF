@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098577,
-    "geom:area_square_m":1161552217.710919,
+    "geom:area_square_m":1161552842.683396,
     "geom:bbox":"-150.655263,-17.869073,-149.149119,-16.982192",
     "geom:latitude":-17.647506,
     "geom:longitude":-149.468093,
@@ -309,8 +309,9 @@
         "wd:id":"Q140298",
         "wk:page":"Windward Islands (Society Islands)"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PF",
-    "wof:geomhash":"ca79142aa61305a15e87fa597e4a706c",
+    "wof:geomhash":"6071c17c2dbdf2593465e3011d803224",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -329,7 +330,7 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1690850813,
+    "wof:lastmodified":1695884865,
     "wof:name":"Windward Islands",
     "wof:parent_id":85632653,
     "wof:placetype":"region",

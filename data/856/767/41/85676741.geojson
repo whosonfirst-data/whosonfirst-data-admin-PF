@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010035,
-    "geom:area_square_m":112519067.018474,
+    "geom:area_square_m":112519103.401233,
     "geom:bbox":"-154.702667,-27.641209,-144.283762,-21.797703",
     "geom:latitude":-24.837553,
     "geom:longitude":-147.740817,
@@ -330,8 +330,9 @@
         "qs_pg:id":961383,
         "wd:id":"Q930426"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PF",
-    "wof:geomhash":"db63560ed87b16dffdb089573c511c33",
+    "wof:geomhash":"d6e305fefd14250b54a0504775d2716a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -350,7 +351,7 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1690850814,
+    "wof:lastmodified":1695884865,
     "wof:name":"Austral Islands",
     "wof:parent_id":85632653,
     "wof:placetype":"region",

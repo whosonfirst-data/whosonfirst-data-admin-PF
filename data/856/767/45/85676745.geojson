@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088444,
-    "geom:area_square_m":1078953325.002033,
+    "geom:area_square_m":1078953262.933425,
     "geom:bbox":"-140.727773,-10.55047,-138.620229,-7.950128",
     "geom:latitude":-9.377794,
     "geom:longitude":-139.573269,
@@ -392,8 +392,9 @@
         "qs_pg:id":1085967,
         "wd:id":"Q172697"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PF",
-    "wof:geomhash":"4dcc27448d6cf6b61ea706ec774c4a51",
+    "wof:geomhash":"83e253cd20685cdb6008cbac482d4f54",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -412,7 +413,7 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1690850813,
+    "wof:lastmodified":1695884865,
     "wof:name":"Marquesas Islands",
     "wof:parent_id":85632653,
     "wof:placetype":"region",
