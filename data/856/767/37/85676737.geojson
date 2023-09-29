@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056685,
-    "geom:area_square_m":667981645.892303,
+    "geom:area_square_m":667984034.080927,
     "geom:bbox":"-148.690663,-23.138767,-134.942983,-14.164972",
     "geom:latitude":-17.516895,
     "geom:longitude":-142.316726,
@@ -274,8 +274,9 @@
         "qs_pg:id":1263430,
         "wd:id":"Q3773321"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PF",
-    "wof:geomhash":"fec8854c5b7384db27029d3ec944dc4d",
+    "wof:geomhash":"7cb430e523e2020757f9c6ede68e4ee2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -293,7 +294,7 @@
         "fra",
         "tah"
     ],
-    "wof:lastmodified":1690850814,
+    "wof:lastmodified":1695884865,
     "wof:name":"Tuamotu-Gambier",
     "wof:parent_id":-1,
     "wof:placetype":"region",
