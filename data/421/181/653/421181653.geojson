@@ -9,6 +9,19 @@
     "geom:bbox":"-149.5,-17.51667,-149.5,-17.51667",
     "geom:latitude":-17.51667,
     "geom:longitude":-149.5,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Arue",
+    "gn:country_code":"PF",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4034636,
+    "gn:latitude":-17.51667,
+    "gn:longitude":-149.5,
+    "gn:modification_date":"2013-08-18",
+    "gn:name":"Arue",
+    "gn:population":9458,
+    "gn:timezone":"Pacific/Tahiti",
     "iso:country":"PF",
     "lbl:bbox":"-149.52,-17.53667,-149.48,-17.49667",
     "lbl:max_zoom":15.0,
@@ -173,6 +186,9 @@
     "name:nob_x_preferred":[
         "Arue"
     ],
+    "name:nor_x_preferred":[
+        "Arue"
+    ],
     "name:nrm_x_preferred":[
         "Arue"
     ],
@@ -311,7 +327,15 @@
         "wk:page":"Arue, French Polynesia"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":497960
+        "gn:id":[
+            4034636
+        ],
+        "qs_pg:id":[
+            497960
+        ],
+        "wk:page":[
+            "Arue%2C_French_Polynesia"
+        ]
     },
     "wof:country":"PF",
     "wof:created":1459009302,
@@ -329,7 +353,7 @@
         }
     ],
     "wof:id":421181653,
-    "wof:lastmodified":1690850817,
+    "wof:lastmodified":1706240576,
     "wof:name":"Arue",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",
@@ -337,7 +361,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pf",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260299649
+    ],
     "wof:tags":[]
 },
   "bbox": [
